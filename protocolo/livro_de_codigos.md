@@ -25,12 +25,14 @@ O gabarito é sempre o diagnóstico registrado na ficha PATORREB (`dados/fichas_
 
 Umidade – condensação; Umidade – ascensional; Umidade – infiltração / água; Movimentação térmica / higrotérmica; Eflorescência / sais solúveis; Falha de projeto ou execução; Envelhecimento / ação ambiental; Deformação / instabilidade do suporte; Retração (argamassa / suporte); Corrosão (armaduras / metais); Ação mecânica (choque / desgaste); Vazamento de instalações; Outra.
 
-## Quem pontuou
+## Quem pontuou: desenho agente × agente
 
-A pontuação das 60 respostas foi feita por uma ferramenta de IA (Claude, Anthropic), que aplicou as regras acima a cada resposta tendo como gabarito o diagnóstico da ficha PATORREB e registrou em `nota` uma justificativa para os casos-limite. É, portanto, uma **avaliação de IA por IA, ancorada em diagnósticos validados por especialistas**: os autores definiram as regras e o gabarito, mas não revisaram a pontuação linha a linha nesta versão.
+A pontuação das 60 respostas foi feita por um **agente avaliador**: um modelo de IA em plano pago (Claude, Anthropic), operando com acesso às respostas, às fichas e a estas regras. Ele aplicou o mesmo critério a cada resposta, tendo como gabarito o diagnóstico da ficha PATORREB, e registrou em `nota` uma justificativa para os casos-limite.
 
-Como a ferramenta que pontuou pertence à mesma família de uma das avaliadas (G – Claude), há risco de viés de afinidade. Por isso:
+O desenho é, portanto, **agente × agente**: o que um agente pago conclui sobre as respostas de agentes gratuitos, ancorado em diagnósticos validados por especialistas. Os autores definiram as regras e o gabarito, mas não revisaram a pontuação linha a linha nesta versão.
+
+Como o agente avaliador pertence à mesma família de uma das ferramentas avaliadas (G – Claude), há risco de viés de afinidade. Por isso:
 
 - as respostas originais estão completas em `dados/respostas_brutas.md`, para que qualquer leitor refaça a pontuação;
 - a aba *Conferência* da planilha tem colunas para registrar concordância ou correção linha a linha, e a aba *Resultado* recalcula tudo automaticamente;
-- a próxima etapa prevista é a **validação humana**: dois avaliadores independentes, sem saber qual ferramenta produziu cada resposta, pontuarão as 60 respostas, e será medida a concordância entre eles e com a IA.
+- a próxima etapa prevista é a **pontuação humana e a correlação com o agente**: dois avaliadores independentes, sem saber qual ferramenta produziu cada resposta, pontuarão as 60 respostas, e será medida a concordância entre eles e entre eles e o agente avaliador. O resultado indicará se o agente reproduz o julgamento de especialistas e pode ser usado para reavaliar novas versões em escala.
