@@ -25,6 +25,12 @@ O gabarito é sempre o diagnóstico registrado na ficha PATORREB (`dados/fichas_
 
 Umidade – condensação; Umidade – ascensional; Umidade – infiltração / água; Movimentação térmica / higrotérmica; Eflorescência / sais solúveis; Falha de projeto ou execução; Envelhecimento / ação ambiental; Deformação / instabilidade do suporte; Retração (argamassa / suporte); Corrosão (armaduras / metais); Ação mecânica (choque / desgaste); Vazamento de instalações; Outra.
 
-## Quem codificou
+## Quem pontuou
 
-A codificação foi proposta com apoio de ferramenta de IA e conferida integralmente pelos autores, que tiveram a decisão final em cada linha. Qualquer leitor pode refazê-la a partir de `dados/respostas_brutas.md` e comparar com `dados/codificacao.csv`.
+A pontuação das 60 respostas foi feita por uma ferramenta de IA (Claude, Anthropic), que aplicou as regras acima a cada resposta tendo como gabarito o diagnóstico da ficha PATORREB e registrou em `nota` uma justificativa para os casos-limite. É, portanto, uma **avaliação de IA por IA, ancorada em diagnósticos validados por especialistas**: os autores definiram as regras e o gabarito, mas não revisaram a pontuação linha a linha nesta versão.
+
+Como a ferramenta que pontuou pertence à mesma família de uma das avaliadas (G – Claude), há risco de viés de afinidade. Por isso:
+
+- as respostas originais estão completas em `dados/respostas_brutas.md`, para que qualquer leitor refaça a pontuação;
+- a aba *Conferência* da planilha tem colunas para registrar concordância ou correção linha a linha, e a aba *Resultado* recalcula tudo automaticamente;
+- a próxima etapa prevista é a **validação humana**: dois avaliadores independentes, sem saber qual ferramenta produziu cada resposta, pontuarão as 60 respostas, e será medida a concordância entre eles e com a IA.

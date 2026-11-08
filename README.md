@@ -6,7 +6,7 @@ Autores: Leonardo Costa dos Santos, Vanessa da Silva de Azevedo e Otávio Noura 
 
 ## O que o estudo fez
 
-Três ferramentas de IA multimodal em versão gratuita (Claude, ChatGPT e Gemini) receberam a fotografia de 20 casos do catálogo PATORREB (Universidade do Porto), cujos diagnósticos foram validados por especialistas. As 60 respostas foram pontuadas por regras fixas e comparadas ao diagnóstico da ficha. A concordância foi medida pelo coeficiente Kappa de Cohen.
+Três ferramentas de IA multimodal em versão gratuita (Claude, ChatGPT e Gemini) receberam a fotografia de 20 casos do catálogo PATORREB (Universidade do Porto), cujos diagnósticos foram validados por especialistas. As 60 respostas foram pontuadas por uma ferramenta de IA, com regras fixas e o diagnóstico da ficha como gabarito (avaliação de IA por IA, ancorada em diagnósticos validados por especialistas). A concordância foi medida pelo coeficiente Kappa de Cohen.
 
 ## O que está aqui
 
@@ -60,7 +60,9 @@ As ferramentas mudam com frequência, então os números valem para a data da co
 
 ## Uso de IA
 
-A organização dos dados, a codificação preliminar, os scripts e a revisão de texto tiveram apoio de ferramenta de IA (Claude, Anthropic). A conferência da codificação, as decisões metodológicas e a interpretação são dos autores. As versões gratuitas de Claude, ChatGPT e Gemini foram o **objeto** da pesquisa.
+A pontuação das 60 respostas foi feita por ferramenta de IA (Claude, Anthropic), seguindo as regras e o gabarito definidos pelos autores, e **não foi revisada linha a linha por humanos nesta versão** (ver `protocolo/livro_de_codigos.md`, seção "Quem pontuou"). A organização dos dados, os scripts e a revisão de texto também tiveram apoio dessa ferramenta. As versões gratuitas de Claude, ChatGPT e Gemini foram o **objeto** da pesquisa.
+
+**Validação humana (próxima etapa):** dois avaliadores independentes, às cegas quanto à ferramenta, pontuarão as respostas, e a concordância entre eles e com a IA será publicada em nova versão. Leitores que quiserem contribuir podem usar a aba *Conferência* da planilha e abrir uma *issue* com suas divergências.
 
 ## Licença e citação
 
@@ -68,4 +70,5 @@ Dados e textos sob CC BY 4.0; código sob MIT (ver `LICENSE.md`). Para citar, us
 
 ## Versões
 
-- **v1.0** (nov/2026): versão submetida ao V Simpósio Internacional do NDAE. Eventuais correções na codificação serão publicadas como nova versão, com registro do que mudou.
+- **v1.0** (nov/2026): versão submetida ao V Simpósio Internacional do NDAE, com pontuação feita por IA.
+- **Próximas:** validação humana da pontuação; inclusão das versões pagas (9 configurações) do artigo completo.
