@@ -27,7 +27,7 @@ Umidade – condensação; Umidade – ascensional; Umidade – infiltração / 
 
 ## Quem pontuou: desenho agente × agente
 
-A pontuação das 60 respostas foi feita por um **agente avaliador**: um modelo de IA em plano pago (Claude, Anthropic), operando com acesso às respostas, às fichas e a estas regras. Ele aplicou o mesmo critério a cada resposta, tendo como gabarito o diagnóstico da ficha PATORREB, e registrou em `nota` uma justificativa para os casos-limite.
+A pontuação das 60 respostas foi feita por um **agente avaliador**: o modelo Claude Opus 5.5 (Anthropic), em plano pago e com esforço de raciocínio alto, operando com acesso às respostas, às fichas e a estas regras. Ele aplicou o mesmo critério a cada resposta, tendo como gabarito o diagnóstico da ficha PATORREB, e registrou em `nota` uma justificativa para os casos-limite.
 
 O desenho é, portanto, **agente × agente**: o que um agente pago conclui sobre as respostas de agentes gratuitos, ancorado em diagnósticos validados por especialistas. Os autores definiram as regras e o gabarito, mas não revisaram a pontuação linha a linha nesta versão.
 

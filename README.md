@@ -6,7 +6,7 @@ Autores: Leonardo Costa dos Santos, Vanessa da Silva de Azevedo e Otávio Noura 
 
 ## O que o estudo fez
 
-Três ferramentas de IA multimodal em versão gratuita (Claude, ChatGPT e Gemini) receberam a fotografia de 20 casos do catálogo PATORREB (Universidade do Porto), cujos diagnósticos foram validados por especialistas. As 60 respostas foram pontuadas por um agente avaliador de IA em plano pago, com regras fixas e o diagnóstico da ficha como gabarito: um desenho **agente × agente**, ancorado em diagnósticos validados por especialistas. A concordância foi medida pelo coeficiente Kappa de Cohen.
+Três ferramentas de IA multimodal em versão gratuita (Claude, ChatGPT e Gemini) receberam a fotografia de 20 casos do catálogo PATORREB (Universidade do Porto), cujos diagnósticos foram validados por especialistas. As 60 respostas foram pontuadas por um agente avaliador pago (Claude Opus 5.5, esforço de raciocínio alto), com regras fixas e o diagnóstico da ficha como gabarito: um desenho **agente × agente**, ancorado em diagnósticos validados por especialistas. A concordância foi medida pelo coeficiente Kappa de Cohen.
 
 ## O que está aqui
 
@@ -60,7 +60,7 @@ As ferramentas mudam com frequência, então os números valem para a data da co
 
 ## Uso de IA
 
-A pontuação das 60 respostas foi feita por um agente avaliador em plano pago (Claude, Anthropic), seguindo as regras e o gabarito definidos pelos autores, e **não foi revisada linha a linha por humanos nesta versão** (ver `protocolo/livro_de_codigos.md`, seção "Quem pontuou"). A organização dos dados, os scripts e a revisão de texto também tiveram apoio dessa ferramenta. As versões gratuitas de Claude, ChatGPT e Gemini foram o **objeto** da pesquisa.
+A pontuação das 60 respostas foi feita por um agente avaliador em plano pago (Claude Opus 5.5, Anthropic, esforço de raciocínio alto), seguindo as regras e o gabarito definidos pelos autores, e **não foi revisada linha a linha por humanos nesta versão** (ver `protocolo/livro_de_codigos.md`, seção "Quem pontuou"). A organização dos dados, os scripts e a revisão de texto também tiveram apoio dessa ferramenta. As versões gratuitas de Claude, ChatGPT e Gemini foram o **objeto** da pesquisa.
 
 **Próxima etapa – humano × agente:** dois avaliadores independentes, às cegas quanto à ferramenta, pontuarão as respostas, e a correlação entre o julgamento humano e o do agente avaliador será publicada em nova versão. Leitores que quiserem contribuir podem usar a aba *Conferência* da planilha e abrir uma *issue* com suas divergências.
 
