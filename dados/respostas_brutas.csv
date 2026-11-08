@@ -1,0 +1,998 @@
+ficha,codigo,ferramenta,empresa,modelo_exibido,data_coleta,modo,resposta_integral
+Ficha 011,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Manchas escuras extensas, de aspecto enegrecido e acinzentado, cobrindo praticamente todo o teto e subindo a partir do encontro com as paredes. Verifica-se o seguinte:
+
+- Distribuição em manchas difusas, com concentração maior nos cantos e nas arestas de encontro teto/parede, onde também há faixas escuras lineares.
+- Pontos esbranquiçados isolados no teto, compatíveis com descamação da pintura ou eflorescência/depósito de sais.
+- Escurecimento também nas paredes, na parte superior e junto ao canto.
+
+Trata-se de **bolor/mofo (crescimento de colônias fúngicas) em revestimento de teto e paredes, associado a umidade persistente**. Há indícios de possível degradação da pintura nas regiões esbranquiçadas.
+
+**2) Causa mais provável e alternativas (em ordem de probabilidade)**
+
+- **Causa mais provável: condensação de vapor de água sobre superfícies frias, combinada com ventilação insuficiente.** O padrão de escurecimento nos cantos e nas arestas (pontes térmicas, onde a superfície é mais fria e a circulação de ar é menor) e a distribuição generalizada pelo teto são típicos desse mecanismo. É comum em ambientes fechados, com laje de cobertura exposta ao sol/frio, sem isolamento térmico e com produção de vapor (banho, cocção, respiração).
+- **Alternativa 1: infiltração de água pela laje de cobertura ou cobertura (falha de impermeabilização, telhado, calhas ou rufos).** As manchas mais claras e irregulares no meio do teto, com possíveis marcas de escorrimento, podem indicar percolação de água.
+- **Alternativa 2: umidade ascendente ou lateral nas paredes (capilaridade/infiltração por fachada)**, que contribuiria para o escurecimento nos cantos e na parte superior das paredes. É menos provável, pois o teto é a área mais afetada.
+
+**3) Grau de confiança no diagnóstico: médio**
+
+A manifestação (bolor) é identificada com alto grau de certeza pela aparência. Já a definição da causa é de confiança média, pois a foto não permite distinguir condensação de infiltração, nem avaliar a umidade do substrato, o tipo de cobertura, a ventilação do ambiente ou o histórico de uso. Para confirmação seriam necessários inspeção in loco, medição de umidade, verificação da laje/telhado e dos pontos de ventilação."
+Ficha 011,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas de umidade, escurecimento generalizado e presença de colônias esbranquiçadas no teto, com deterioração superficial do revestimento. Há também manchas escurecidas nas paredes, especialmente na região do encontro entre o teto e as paredes, compatíveis com a presença de fungos e bolor.
+
+2. Causa mais provável: Infiltração de água pela laje de cobertura, possivelmente decorrente de falhas na impermeabilização, permitindo a entrada e o acúmulo de umidade no elemento construtivo.
+
+- Outras causas possíveis:
+  1. Condensação superficial, favorecida pela elevada umidade do ambiente e pela ventilação insuficiente.
+  2. Vazamento em tubulações hidráulicas ou instalações embutidas na laje, mantendo a região continuamente úmida.
+
+3. Grau de confiança no diagnóstico: Médio. A distribuição das manchas e o escurecimento são compatíveis com umidade persistente, mas a fotografia, isoladamente, não permite determinar com segurança a origem da água nem distinguir definitivamente entre infiltração, condensação e vazamento."
+Ficha 011,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, analisei a imagem fornecida. Com base exclusivamente nas características visuais apresentadas, aqui estão os três itens solicitados:
+
+### 1) Manifestação Patológica Observada
+
+Presença de manchas de umidade generalizadas no teto e nos cantos superiores das paredes, acompanhadas por intensa proliferação de micro-organismos (bolor e fungos) e sinais de degradação/desagregação do revestimento ou eflorescência.
+
+### 2) Causa Mais Provável e Outras Causas Possíveis
+
+* **Causa mais provável:** Infiltração de água proveniente da cobertura ou do pavimento superior (falhas no sistema de impermeabilização da laje, problemas em calhas ou vazamento de tubulações embutidas).
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. **Condensação superficial severa:** Acumulo de umidade no ar condensado nas superfícies frias (pontes térmicas nos cantos e lajes), agravado pela falta de ventilação adequada no ambiente.
+
+
+2. **Infiltração por capilaridade ou água pluvial nas fachadas:** Falhas de vedação, trincas ou revestimentos externos danificados nas paredes que permitem a penetração e o escoamento da água para a região do teto.
+
+
+
+
+
+### 3) Grau de Confiabilidade no Diagnóstico
+
+**Alto** (as evidências visuais de patologias de umidade, como o escurecimento por colonização fúngica em tetos e cantos, são típicas e bem delimitadas na imagem)."
+Ficha 014,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação geral:** a Imagem 1 mostra a face interna de um lucernário (claraboia) com vidro cobrindo toda a superfície de gotículas. A Imagem 2 mostra o mesmo tipo de elemento visto de fora, na cobertura: um painel de vidro com moldura metálica, apoiado em uma platibanda ou muro de concreto com manchas esverdeadas, ao lado de exaustores eólicos.
+
+---
+
+**1) Manifestação patológica observada**
+
+Condensação superficial de vapor d'água na face interna do vidro da claraboia, com gotículas distribuídas por toda a superfície. O fenômeno é mais intenso nas bordas e na parte inferior. Há também indícios de umidade e escurecimento pontual na moldura e no encontro com o forro, o que sugere risco de proliferação de mofo e de deterioração dos acabamentos adjacentes. Na Imagem 2, o concreto da base apresenta manchas esverdeadas, compatíveis com biofilme ou fungos associados à umidade persistente.
+
+---
+
+**2) Causa mais provável e alternativas**
+
+**Causa mais provável:** o vidro, que é um elemento de baixa resistência térmica, fica com temperatura superficial abaixo do ponto de orvalho do ar interno. Isso ocorre por ponte térmica, porque o vidro simples ou o conjunto sem isolamento é o ponto mais frio do ambiente. A isso se soma a umidade relativa elevada no interior, típica de banheiros, cozinhas ou ambientes com ventilação deficiente. O ar úmido entra em contato com a superfície fria e condensa.
+
+**Outras causas possíveis, em ordem de probabilidade:**
+
+1. **Falha de vedação ou de estanqueidade do conjunto.** Se houver infiltração de água pelas juntas ou vedações, ou perda de estanqueidade (por exemplo, em vidro duplo), a umidade tende a se acumular entre o vidro e a moldura e agrava a condensação.
+2. **Ventilação insuficiente do ambiente ou da cobertura.** A ausência de renovação de ar adequada mantém a umidade relativa alta e favorece a condensação recorrente.
+
+---
+
+**3) Grau de confiança no diagnóstico: médio a alto**
+
+A condensação superficial é visualmente inequívoca e o mecanismo físico (vidro frio mais umidade interna alta) é o mais plausível. A confiança cai para **médio** quanto à identificação da causa específica, pois não é possível, só pela imagem, distinguir entre simples condensação, infiltração pelas vedações ou falha do vidro duplo. Também não há dados sobre uso do ambiente, umidade relativa, temperatura ou histórico de manifestação."
+Ficha 014,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Condensação superficial de umidade na face interna do elemento translúcido da cobertura (claraboia), caracterizada pela presença de numerosas gotículas de água.
+
+2. Causa mais provável: Condensação do vapor de água do ar sobre a superfície do elemento, cuja temperatura está abaixo do ponto de orvalho, possivelmente devido à diferença de temperatura entre os ambientes interno e externo e à ventilação insuficiente.
+
+- Causa alternativa 1: Elevada umidade relativa do ar no ambiente interno, decorrente de ventilação inadequada.
+- Causa alternativa 2: Deficiência no isolamento térmico da cobertura, favorecendo o resfriamento da superfície e a ocorrência de condensação.
+
+3. Grau de confiança no diagnóstico: Alto quanto à identificação visual da condensação superficial; médio quanto à determinação de sua causa específica, que exigiria verificação das condições ambientais e construtivas."
+Ficha 014,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise técnica com base exclusivamente nas imagens fornecidas:
+
+* **1) Manifestação patológica observada:**
+Condensação superficial (formação de gotículas de água por condensação de vapor d'água) na face interna da clarabóia ou janela de cobertura.
+
+
+* **2) Causa mais provável e outras causas possíveis:**
+* **Causa mais provável:** Condensação intersticial ou superficial devido à diferença térmica entre o ambiente interno e externo, fazendo com que a temperatura da superfície interna do vidro atinja o ponto de orvalho.
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. Deficiência na ventilação ou exaustão do ambiente interno, resultando em alta concentração de umidade relativa do ar.
+2. Falha ou insuficiência de isolamento térmico nos perfis/caixilhos da clarabóia, gerando pontes térmicas que facilitam o resfriamento localizado.
+
+
+
+
+
+
+* **3) Grau de confiança no diagnóstico:**
+Alto."
+Ficha 016,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Há colonização biológica (algas, musgos e possivelmente líquens) na base da parede de alvenaria de pedra, com manchas esverdeadas contínuas e densas. A faixa afetada é limitada à região inferior, com altura aproximadamente uniforme e fronteira superior relativamente definida. O restante da parede, acima dessa faixa, está seco e limpo. Isso indica umidade ascendente por capilaridade, com a colonização biológica como manifestação visível. Não se observam, na imagem, fissuras, desagregação severa ou eflorescências evidentes, embora o aspecto das juntas e da superfície da pedra na zona úmida sugira início de deterioração superficial.
+
+O croqui (Imagem 2) reforça esse quadro. Mostra uma parede de alvenaria de pedra apoiada em fundação de pedra rústica (pedra argamassada). De um lado há terreno/jardim com vegetação e, do outro, um piso apoiado sobre solo ou aterro. Não há indicação de barreira impermeabilizante na base da parede.
+
+**2) Causa mais provável e outras causas possíveis**
+
+- **Causa mais provável: umidade ascendente por capilaridade.** A água do solo sobe pelos poros e capilares da pedra e da argamassa, a partir da fundação e do terreno em contato com a base da parede. A ausência de barreira contra umidade (impermeabilização horizontal) permite essa ascensão. A altura regular da faixa úmida e o fato de o piso e o solo adjacentes estarem em contato direto com a parede reforçam essa hipótese.
+- **Outra causa possível (2ª em probabilidade): infiltração/umidade lateral por acúmulo de água no solo ou drenagem deficiente.** O terreno externo, mais alto e com vegetação, como mostra o croqui, pode reter água e transferi-la para a parede por contato. Falhas de drenagem periférica ou de escoamento de águas pluviais agravariam o problema.
+- **Outra causa possível (3ª em probabilidade): condensação superficial em ambiente pouco ventilado.** Em um ambiente interno frio, com pouca ventilação e pouca insolação, a condensação pode favorecer o crescimento biológico, mas por si só explicaria mal uma faixa com limite superior tão bem definido na base.
+
+Como o enunciado pede até duas causas alternativas, considero como principais a drenagem deficiente/umidade lateral e, secundariamente, a condensação.
+
+**3) Grau de confiança no diagnóstico: médio a alto**
+
+O padrão visual (faixa basal, limite superior definido, parede seca acima, ausência de barreira no croqui) é muito característico de umidade ascendente. Por isso a confiança no diagnóstico principal é alta. O grau geral fica em **médio**, porque a análise se baseia apenas em imagens. Não há medição de umidade, informação sobre a presença de sais, nível do lençol freático, condições de drenagem ou histórico do edifício, e esses dados seriam necessários para confirmar a causa e descartar contribuições de infiltração lateral ou condensação."
+Ficha 016,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Presença de umidade e proliferação de algas e musgos na parte inferior da parede de alvenaria, com manchas esverdeadas e escurecimento superficial, característicos de umidade persistente.
+
+2. Causa mais provável: Ascensão capilar de umidade proveniente do solo, possivelmente associada à ausência ou à deficiência de impermeabilização na base da parede.
+
+- Causa alternativa 1: Infiltração lateral de água do solo, devido à deficiência de impermeabilização da parede em contato com o terreno.
+- Causa alternativa 2: Deficiência de drenagem no entorno, favorecendo o acúmulo de água junto à base da alvenaria.
+
+3. Grau de confiança no diagnóstico: Alto para a identificação visual da manifestação de umidade e do crescimento biológico; médio para a determinação da causa específica, pois a confirmação exigiria uma inspeção das condições de impermeabilização e drenagem."
+Ficha 016,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, analiso a fotografia e o esquema técnico apresentados e estruturo o diagnóstico nos três itens solicitados:
+
+### 1) Manifestação patológica observada
+
+* Presença de **umidade persistente** na faixa inferior da alvenaria, acompanhada de intensa **proliferação de agentes biológicos** (algas, musgos e lodo de coloração verde) na superfície dos blocos de pedra.
+
+### 2) Causa mais provável e alternativas
+
+* **Causa mais provável:** **Umidade ascendente por capilaridade**. A água presente no solo migra através dos poros da fundação e da alvenaria devido à ausência ou à falha de uma barreira impermeável eficiente (como uma camada de impermeabilização de arranque ou argamassa polimérica) na base da parede.
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. **Infiltração lateral:** Pressão hidrostática ou contato direto de solo úmido/aterro com o lado externo da parede (conforme sugerido pelo diagrama de corte), fazendo com que a umidade atravesse a espessura da alvenaria.
+2. **Condensação superficial:** Acúmulo de umidade do ar ambiente sobre a superfície fria da base da parede em um ambiente subterrâneo ou com baixa renovação de ar, favorecendo o desenvolvimento de microrganismos.
+
+
+
+### 3) Grau de confiança no diagnóstico
+
+* **Alto**. A morfologia da patologia — caracterizada por uma faixa horizontal nítida de umidade e biofilme verde restrita à região inferior da parede — é um indicativo clássico e visualmente evidente de problemas oriundos da umidade proveniente do solo."
+Ficha 020,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Análise da fotografia (apenas visual)**
+
+**1) Manifestação patológica observada**
+
+Há manchas escuras de umidade e possível proliferação de bolor (mofo) no canto da janela, na região do peitoril (parapeito) e no encontro com a parede lateral. As manchas descem em faixa vertical a partir da extremidade do peitoril, formando um ""rastro"" de escorrimento sobre o reboco/pintura. Também se observa deterioração da pintura e do acabamento na lateral da esquadria: a madeira do batente ou da guarnição aparece manchada e com aspecto desgastado, e há sinais de descascamento ou eflorescência no encontro entre o peitoril e a parede.
+
+**2) Causa mais provável e causas alternativas**
+
+- **Causa mais provável: infiltração de água pluvial pela junta entre esquadria e alvenaria/peitoril.** A água escorre pela janela, entra pela interface mal vedada (falta de selante, calafetação ou rejunte deteriorado) e migra pelo encontro peitoril-parede. Os indícios são a localização das manchas, que partem do vértice da janela, e o padrão de escorrimento vertical.
+- **Alternativa 1: falhas no próprio peitoril.** O peitoril pode estar sem pingadeira, sem caimento adequado para o exterior ou sem rebaixo, e a água retorna para a face interna da parede ou infiltra por fissuras e juntas da própria peça.
+- **Alternativa 2: condensação superficial associada a ponte térmica e ventilação deficiente.** Ela pode ocorrer no vidro e na esquadria, mas explicaria menos o escorrimento localizado e vertical, e funcionaria mais como fator agravante do bolor.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** A manifestação (umidade com bolor) é evidente e a origem na interface janela-parede é bem sugerida pela imagem. Mas a baixa resolução e a ausência de informações do lado externo (detalhe da pingadeira, selantes, fachada) impedem descartar com segurança as demais causas. Seria recomendável uma inspeção in loco, com teste de estanqueidade (aspersão de água) e medição de umidade, para confirmar."
+Ficha 020,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas de umidade e escurecimento na região inferior da parede, junto ao piso e no encontro com o peitoril da janela, com indícios de infiltração e possível deterioração do revestimento.
+
+2. Causa mais provável: Infiltração de água de chuva pela interface da janela com a alvenaria ou pelo peitoril, possivelmente associada a falhas de vedação ou de impermeabilização. Outras causas possíveis, em ordem de probabilidade:
+
+- Segunda: Falha na impermeabilização do peitoril ou das superfícies adjacentes, permitindo a entrada e o acúmulo de água.
+- Terceira: Umidade ascendente por capilaridade a partir do piso ou da base da parede.
+
+3. Grau de confiança no diagnóstico: Médio. A distribuição das manchas é compatível com infiltração, mas a fotografia, isoladamente, não permite confirmar o ponto de entrada da água nem excluir outras fontes de umidade."
+Ficha 020,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual da imagem apresentada, segue o laudo técnico estruturado em três itens:
+
+1. **Manifestação patológica observada:**
+* Infiltração de água, evidenciada por manchas de umidade, escurecimento do revestimento, presença de microrganismos (bolor/fungos) e deterioração/desagregação do material na região do encontro entre a esquadria, o peitoril e a parede adjacente.
+
+
+
+
+2. **Causa mais provável:**
+* **Causa principal:** Falha na vedação, calafetação ou selagem do caixilho/esquadria da janela, permitindo a entrada de água da chuva para o interior da edificação.
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. Deficiência ou ausência de caimento adequado e de pingadeira no peitoril externo, facilitando o retorno e a estagnação da água da chuva contra a parede.
+2. Falhas no rejuntamento ou na impermeabilização da junta entre o peitoril (chapa ou pedra) e a alvenaria do vão.
+
+
+
+
+3. **Grau de confiança no diagnóstico:**
+* **Alto**, visto que os rastros de escorrimento de umidade e as marcas de degradação partem inequivocamente da interface entre o vão da janela e a parede."
+Ficha 024,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação preliminar:** foram enviadas duas imagens que parecem ser do mesmo caso: a Imagem 1 mostra a laje de cobertura (terraço com proteção mecânica de brita/seixo rolado, platibanda e edifício residencial ao lado) e a Imagem 2 mostra a face inferior da laje, no ambiente interno. A análise abaixo considera as duas em conjunto.
+
+---
+
+**1) Manifestação patológica observada**
+
+Infiltração de água através da laje de cobertura, com as seguintes evidências na face inferior (Imagem 2):
+- Manchas de umidade extensas, com tonalidade amarelada a marrom-alaranjada, em padrão de ""mapa"" e auréolas concêntricas, indicando ciclos repetidos de molhamento e secagem;
+- Escorrimentos e depósitos brancos em forma de pingentes (estalactites) pendentes da laje, característicos de **eflorescência/lixiviação**: a água dissolve compostos de cálcio do cimento (hidróxido de cálcio), que se depositam como carbonato de cálcio ao evaporar;
+- Escurecimento e possível início de bolor nas regiões mais úmidas;
+- Concentração das manifestações em linhas que parecem acompanhar fissuras/juntas e eixos de escoamento da laje.
+
+**2) Causa mais provável e causas alternativas**
+
+- **Causa mais provável:** falha do sistema de impermeabilização da cobertura (manta ou membrana envelhecida, perfurada ou mal executada), especialmente nos pontos singulares (rodapés, encontro com a platibanda, juntas, ralos), com a água percolando pela laje por fissuras e juntas de concretagem. A camada de brita, ao reter umidade e dificultar a inspeção, favorece a permanência da água sobre a laje.
+- **Causa alternativa 1:** fissuração da laje (retração, movimentações térmicas ou deformação) sem capacidade da impermeabilização de absorver as movimentações, criando caminhos preferenciais para a água.
+- **Causa alternativa 2:** deficiência de drenagem (ralos/extravasores obstruídos ou caimento insuficiente), gerando empoçamento e carga hidráulica contínua sobre a impermeabilização.
+
+**3) Grau de confiança no diagnóstico: MÉDIO a ALTO**
+
+- **Alto** quanto à manifestação (infiltração com lixiviação), pois os sinais visuais são inequívocos.
+- **Médio** quanto à causa exata, pois não é possível, apenas pela foto, identificar o tipo de impermeabilização, o ponto de entrada da água, o estado dos ralos ou a existência de fissuras. Seria necessária vistoria in loco (remoção parcial da brita, ensaio de estanqueidade/prova d'água e inspeção dos pontos singulares) para confirmar."
+Ficha 024,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas de umidade e infiltração, com escurecimento e depósitos de aspecto esbranquiçado no teto da imagem superior, compatíveis com deterioração decorrente da presença de água. A imagem inferior mostra uma cobertura plana com camada de proteção superficial em agregado granular.
+
+2. Causa mais provável: Falha na impermeabilização da cobertura, permitindo a passagem de água através da laje e o surgimento das manchas no teto.
+
+- Causa alternativa 1: Deficiências nos detalhes de impermeabilização, como encontros com paredes, ralos e pontos de drenagem.
+- Causa alternativa 2: Deficiência no sistema de drenagem da cobertura, com acúmulo de água por caimento insuficiente ou obstrução dos ralos.
+
+3. Grau de confiança no diagnóstico: Médio. O padrão visual é compatível com infiltração proveniente da cobertura, mas não é possível confirmar a origem exata da água nem identificar a falha específica da impermeabilização apenas pelas fotografias."
+Ficha 024,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise técnica com base nas fotografias fornecidas:
+
+### 1) Manifestação Patológica Observada
+
+* **Infiltração de água e lixiviação do concreto:** Observa-se na face inferior da laje (teto) um quadro severo de umidade com manchas de escorrimento, alteração de coloração e expressiva formação de eflorescências e **estalactites** (microconcreções carbonatadas). Essas formações ocorrem devido à percolação de água através da matriz de cimento, que dissolve e carrega o hidróxido de cálcio livre para a superfície inferior, onde ele reage com o gás carbônico do ar e precipita.
+
+
+
+---
+
+### 2) Causa Mais Provável e Outras Causas Possíveis
+
+* **Causa mais provável:** **Falha no sistema de impermeabilização da laje de cobertura/terraço** situada no pavimento superior (visualizada na segunda imagem com proteção mecânica em brita), permitindo a infiltração e o fluxo contínuo de água da chuva através do concreto estrutural.
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. **Falhas em pontos singulares:** Problemas de vedação ou rompimento da manta nos ralos, juntas de dilatação, tubulações passantes ou nos encontros com muretas e platibandas.
+2. **Deficiência de caimento ou drenagem:** Erros de execução nos caimentos da laje que provocam empoçamento prolongado de água, sobrecarregando a estanqueidade da impermeabilização ao longo do tempo.
+
+
+
+---
+
+### 3) Grau de Confiança no Diagnóstico
+
+* **Alto:** Os indícios visuais — em especial a lixiviação com formação de estalactites no teto combinada com a tipologia de laje de cobertura exposta com brita logo acima — configuram um cenário clássico e inequívoco de percolação de água de cobertura por falha de estanqueidade."
+Ficha 036,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"# Diagnóstico por análise visual
+
+## 1) Manifestação patológica observada
+
+**Imagem 1:** Fissuras e trincas verticais e subverticais que acompanham as juntas de argamassa na alvenaria de tijolos aparentes, na região de canto/quina do edifício, junto ao encontro com uma laje ou marquise em balanço. A fissura se abre e se prolonga ao longo da altura. Há indícios de **deslocamento diferencial** entre os planos da alvenaria (a parte superior parece desalinhada em relação à inferior), além de abertura visível nas juntas.
+
+**Imagem 2:** Fissuração das juntas horizontais e verticais com **descolamento da argamassa de assentamento**, **rotação e deslocamento de peças cerâmicas** (tijolos ""desencaixados"" do alinhamento), e **ruptura/destacamento de uma peça**, com perda de material e exposição do interior. Observa-se ainda uma mancha escura no canto superior direito, compatível com umidade, sujidade ou resíduo de reparo anterior.
+
+## 2) Causa mais provável
+
+**Causa principal: movimentação diferencial e tensões não absorvidas pela alvenaria, principalmente por variação higrotérmica (dilatação e retração térmica e higroscópica) sem juntas de dilatação/movimentação adequadas.**
+
+Fundamentos da hipótese:
+- A fissuração concentrada em cantos e em encontros com elementos de concreto (laje, marquise) é típica de diferença de comportamento entre materiais (concreto × cerâmica).
+- O destacamento e a rotação das peças revelam tensões de cisalhamento e compressão acumuladas, característicos de **dilatação confinada**, e não de recalque pontual.
+- Alvenaria aparente de fachada sofre grande amplitude térmica e ciclos de umedecimento e secagem.
+
+**Outras causas possíveis (em ordem de probabilidade):**
+1. **Recalque diferencial da fundação ou deformação excessiva da estrutura (flecha de laje/balanço):** pode explicar o desalinhamento vertical na Imagem 1, mas é menos provável, pois não se observa o padrão diagonal típico de recalque.
+2. **Falha de execução e de materiais:** argamassa de assentamento inadequada (traço pobre, baixa aderência) e ausência de armaduras de reforço, telas ou vergas e contravergas, além de possível expansão por umidade das peças cerâmicas ou da argamassa.
+
+## 3) Grau de confiança no diagnóstico
+
+**Médio.**
+
+A manifestação (fissuração, deslocamento e destacamento) é inequívoca, mas a causa é inferida apenas por padrão visual. Faltam informações sobre o histórico da edificação, a presença de juntas de movimentação, a orientação da fachada, a idade, as condições da fundação e a evolução das fissuras (ativas ou estabilizadas). Recomenda-se, para confirmação, instalar **fissurômetros/selos de gesso**, realizar inspeção da estrutura e das juntas e, se necessário, investigar a fundação."
+Ficha 036,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Descolamento e destacamento de peças cerâmicas de revestimento de fachada, com perda de aderência e exposição localizada da camada de assentamento ou do substrato. Observam-se também fissuras e descontinuidades nas juntas do revestimento.
+
+2. Causa mais provável: Falha de aderência entre as peças cerâmicas e a camada de assentamento, possivelmente associada à execução inadequada do revestimento, como aplicação incorreta da argamassa colante ou insuficiência de contato entre a argamassa e as peças.
+
+- Outras causas possíveis:
+  1. Movimentações diferenciais da fachada, decorrentes de variações térmicas e de umidade, gerando tensões no revestimento.
+  2. Infiltração de água pelas juntas ou por pontos vulneráveis, contribuindo para a degradação dos materiais e a perda de aderência.
+
+3. Grau de confiança no diagnóstico: Alto para a identificação do destacamento do revestimento cerâmico; médio para a determinação da causa mais provável, pois a confirmação exige inspeção presencial e avaliação das condições de aderência, assentamento e exposição à umidade."
+Ficha 036,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual das fotografias apresentadas, segue o laudo técnico estruturado nos três itens solicitados:
+
+1. **Manifestação patológica observada:**
+Descolamento, destacamento e fissuração severa do revestimento de fachada (placas cerâmicas/tijolos aparentes colados), caracterizado pela separação física em placas e abertura expressiva de juntas na região de quina e de interface com elementos estruturais de concreto.
+2. **Causa mais provável e outras possíveis causas (em ordem de probabilidade):**
+* **Causa mais provável:** Falha de aderência do sistema de argamassa colante associada à ausência ou insuficiência de juntas de movimentação e dilatação, gerando o acúmulo de tensões de compressão e cisalhamento nas regiões de canto.
+* **Segunda causa mais provável:** Movimentações e deformações diferenciais da estrutura de concreto adjacente (como flechas em vigas, retração ou fluência), transmitidas diretamente para o revestimento rígido sem a devida junta de descontinuidade.
+* **Terceira causa mais provável:** Infiltração de água pelas juntas de assentamento e rejuntamento, provocando a perda gradual de resistência e durabilidade da argamassa de fixação por lixiviação ou ciclos de umidade.
+
+
+3. **Grau de confiança no diagnóstico:**
+Alto."
+Ficha 043,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação geral:** muro/fachada em alvenaria de pedra natural (aparentemente granito ou rocha magmática de tom escuro), assentada em fiadas regulares, com juntas finas. Há eflorescência, manchas de umidade e escorrimentos em vários blocos, e o padrão se repete em algumas peças.
+
+## 1) Manifestação patológica observada
+
+**Eflorescência e manchas de umidade, com escorrimento de sais e lixiviação em blocos de rocha.** Na imagem 2 (detalhe), há depósitos esbranquiçados e acinzentados, em faixas verticais, sobre a face de alguns blocos e ao longo de juntas verticais. Há também áreas escurecidas, com aspecto úmido, e variações de tonalidade (manchamento) entre pedras vizinhas. Na imagem 1, os escorrimentos claros aparecem principalmente na metade superior do muro, abaixo da região do beiral/coroamento, e em juntas verticais. Não se observam, de forma evidente, fissuras estruturais, desalinhamentos ou perda de material.
+
+## 2) Causa mais provável e alternativas
+
+**Causa mais provável: infiltração de água pelo topo/coroamento e pelas juntas, com migração de sais solúveis.** A água entra por juntas de assentamento com argamassa permeável ou fissurada e por falhas de proteção superior (ausência ou insuficiência de pingadeira, rufo ou capa). Ela percorre a alvenaria por gravidade, dissolve sais da argamassa (cálcio, álcalis) e os deposita na superfície ao evaporar. O padrão vertical, partindo de juntas e do topo, sustenta essa hipótese.
+
+**Alternativas, em ordem de probabilidade:**
+1. **Escorrimento superficial de água de chuva sem pingadeira adequada**, com lavagem diferencial das faces e depósito de carbonatos e sujidades. Seria um problema de detalhe construtivo, não necessariamente de infiltração profunda.
+2. **Sais e minerais da própria rocha ou da argamassa de rejuntamento**, com oxidação de minerais ferrosos nas pedras (tons acastanhados). Isso pode explicar parte das variações de cor, mas não os depósitos brancos em faixa.
+
+## 3) Grau de confiança
+
+**Médio.** A presença de eflorescência e umidade é clara, mas a análise é só visual. Não é possível distinguir com segurança a origem exata da água (topo, juntas, base, umidade ascendente) nem a composição dos sais, e a imagem não mostra o coroamento nem a interface com o solo. Para confirmar, seria necessária inspeção local, verificação do detalhe de topo e drenagem, e análise dos sais."
+Ficha 043,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas esbranquiçadas e escurecimentos irregulares na superfície dos blocos de pedra, com aspecto de depósitos superficiais e alteração cromática localizada, compatíveis com eflorescência e/ou deposição de resíduos decorrentes da umidade.
+
+2. Causa mais provável: Percolação ou escorrimento de água pela alvenaria, promovendo o transporte de sais minerais e sua deposição na superfície durante a evaporação.
+
+- Causa alternativa 1: Lixiviação de componentes minerais da própria pedra ou da argamassa de assentamento, com deposição de resíduos na superfície.
+- Causa alternativa 2: Colonização biológica superficial, favorecida pela umidade e pela exposição às condições ambientais.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem evidencia manchas e depósitos superficiais, mas não permite confirmar a presença de sais, distinguir com segurança a eflorescência da lixiviação ou excluir alterações naturais da própria pedra. A confirmação exigiria inspeção local e, se necessário, análise dos depósitos."
+Ficha 043,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise técnica da fotografia anexa:
+
+### 1) Manifestação Patológica Observada
+
+* **Eflorescência e lixiviação:** Presença de depósitos esbranquiçados de aspecto calcário ou cristalino que escorrem verticalmente pela face dos blocos de pedra, originando-se principalmente a partir das juntas de assentamento/rejuntamento.
+
+
+
+### 2) Causa Mais Provável e Outras Causas Possíveis
+
+1. **Causa mais provável:** Percolação de água (proveniente de chuvas, umidade do solo ou aspersão) através da alvenaria e das juntas, que dissolve sais solúveis presentes na argamassa ou nos materiais constituintes e os transporta para a superfície por capilaridade; com a evaporação da água, os sais precipitam, formando as manchas brancas.
+2. **Segunda causa possível:** Falha ou insuficiência no sistema de drenagem e/ou na impermeabilização do tardoz (face posterior) do muro, gerando acúmulo de umidade constante e fluxo contínuo de água através da estrutura.
+3. **Terceira causa possível:** Porosidade excessiva ou fissuração incipiente nas argamassas de rejuntamento, permitindo a entrada direta e facilitada de água pluvial para o interior das juntas.
+
+### 3) Grau de Confiança no Diagnóstico
+
+* **Alto:** Os padrões visuais das manchas verticais esbranquiçadas e escorridas na superfície da alvenaria de pedra são características clássicas e inconfundíveis de processos de eflorescência e lixiviação decorrentes da ação da água."
+Ficha 052,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Muro com acabamento em reboco pintado de cor clara, coroado por capeamento de granito. Observa-se:
+
+- Destacamentos pontuais do revestimento (descascamento da pintura e desplacamento de parte do reboco), com exposição do substrato cinza escuro, em ao menos quatro pontos ao longo da face do muro, abaixo do capeamento.
+- Manchas de umidade e de oxidação (tons ocre/alaranjados) em linhas verticais descendentes, logo abaixo do capeamento, na região central da imagem.
+- Aspecto de manchamento difuso e desagregação superficial do reboco nas áreas próximas aos destacamentos.
+
+**2) Causa mais provável**
+
+1. **Infiltração de água pela junta ou interface entre o capeamento e o muro (causa principal).** As manchas escorridas partem da região do capeamento, o que indica percolação de água pelas juntas, ou falta de pingadeira/rufo adequado, sem proteção do topo. A água satura o reboco e o substrato, gera subpressão e ciclos de molhagem e secagem, o que leva à perda de aderência e ao desplacamento da pintura e do reboco. A coloração ocre sugere o carreamento de óxidos de ferro ou sais, possivelmente pela corrosão de grampos, armaduras ou elementos metálicos de fixação do capeamento, ou pela lixiviação do substrato.
+2. **Eflorescência e criptoflorescência por migração de sais (ou, secundariamente, umidade ascensional/falha de impermeabilização na base).** Sais solúveis transportados pela água cristalizam sob o revestimento e geram pressão, o que desagrega a pintura e o reboco localmente. Esse mecanismo costuma agir em conjunto com o item 1, sendo um agravante, e não necessariamente uma causa independente.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** A origem da água pelo topo do muro é bem sustentada pelo padrão das manchas escorridas e pela localização dos destacamentos, mas somente a análise visual não permite confirmar a presença de corrosão de elementos metálicos, a natureza dos sais, a composição do substrato nem a profundidade do dano. Para confirmação, seriam recomendáveis inspeção in loco das juntas e da fixação do capeamento, percussão do reboco (som cavo) e, se necessário, análise de sais."
+Ficha 052,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1\. Manifestação patológica observada: Desplacamento e descascamento localizado da pintura e do revestimento superficial da parede, com exposição do substrato em alguns pontos e presença de manchas amareladas abaixo de uma das áreas deterioradas.
+
+2\. Causa mais provável: Infiltração de água proveniente do topo da parede, possivelmente pela deficiência de impermeabilização ou de vedação na interface entre a parede e a peça de capeamento. A umidade favorece a perda de aderência e o destacamento da pintura.
+
+- Causa alternativa 1: Falhas de execução ou envelhecimento do sistema de pintura e revestimento, com perda progressiva de aderência.
+- Causa alternativa 2: Deficiência de caimento, juntas ou pingadeira no capeamento, permitindo o escoamento de água pela face vertical e a deterioração superficial.
+
+3\. Grau de confiança no diagnóstico: Médio. A imagem evidencia a deterioração localizada da pintura e é compatível com a ação da umidade. Entretanto, não permite confirmar a origem da água nem excluir falhas de aderência ou problemas de execução sem uma inspeção presencial."
+Ficha 052,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual da fotografia fornecida, aqui está o laudo preliminar estruturado conforme solicitado:
+
+* **1) Manifestação patológica observada:**
+* Descolamento, empolamento e descascamento da película de pintura e do revestimento de argamassa na face vertical do muro/platibanda.
+
+
+* Presença de manchas de umidade, eflorescência e escorrimentos logo abaixo da peça de arremate superior (soleira/pingadeira).
+
+
+
+
+* **2) Causa mais provável e outras causas possíveis:**
+* **Causa principal:** Infiltração de água de chuva pelo topo da estrutura, decorrente de falhas de estanqueidade na peça de coroamento (soleira de pedra), como vedação inadequada das juntas, fissuras ou ausência de uma geometria correta que impeça o retorno da água para a parede.
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. *Ausência ou insuficiência de pingadeira com goteira adequada:* A peça superior não possui projeção suficiente para afastar a água da face da parede, fazendo com que escorra diretamente sobre o revestimento.
+
+
+2. *Falta de impermeabilização de topo:* Ausência de uma camada impermeável ou hidrofugante sob ou sobre a soleira, permitindo a absorção e retenção de umidade pela alvenaria ou argamassa subjacente.
+
+
+
+
+
+
+* **3) Grau de confiança no diagnóstico:**
+* **Alto**. A localização exata das manifestações patológicas — estritamente concentradas na região imediatamente inferior ao topo da platibanda/muro — é um indicativo clássico e direto de falhas de impermeabilização ou escoamento no coroamento superior."
+Ficha 054,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Manchas escuras em faixas verticais (escorrimentos) na fachada com revestimento argamassado texturizado, logo abaixo do peitoril de uma janela de esquadria verde. As faixas partem da borda inferior do peitoril e descem de forma aproximadamente paralela, com intensidade variável. A superfície superior do peitoril e a face frontal também apresentam manchamento difuso, com tons acinzentados e esverdeados. Trata-se de sujidade diferencial e colonização biológica (biofilme de fungos, algas e líquens) associadas ao escoamento concentrado de água pluvial, ou seja, manchamento por lavagem diferencial da fachada.
+
+**2) Causa mais provável e causas alternativas**
+
+- **Causa mais provável:** ausência ou deficiência de pingadeira (ou de caimento adequado e de rufo) no peitoril. A água da chuva escorre sobre a superfície horizontal ou levemente inclinada, arrasta partículas de poluição e sujidade e, em vez de se destacar da borda, contorna a face frontal e escorre pela parede. Isso gera caminhos preferenciais de umidade, que mantêm a argamassa úmida por mais tempo e favorecem o crescimento de microrganismos nesses trechos.
+- **Segunda causa possível:** porosidade e rugosidade da textura do revestimento, somadas à falta de proteção hidrofugante ou de pintura de qualidade. A textura retém partículas e água, o que acentua o contraste entre as faixas lavadas e as sujas.
+- **Terceira causa possível:** infiltração ou percolação de água pelas juntas entre peitoril e esquadria ou entre peitoril e alvenaria (vedação deficiente), que alimenta a umidade pontual e agrava o escorrimento.
+
+**3) Grau de confiança no diagnóstico**
+
+**Alto** para a manifestação (manchamento por escorrimento com colonização biológica) e para a causa principal (falha de pingadeira e drenagem no peitoril). **Médio** para as causas secundárias, pois dependem de verificação em campo, como a existência de pingadeira, o caimento, o estado das juntas e o tipo de acabamento aplicado."
+Ficha 054,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas escurecidas e escorrimentos verticais na superfície da fachada, abaixo do peitoril da janela, compatíveis com sujidade superficial e possível colonização biológica associadas à umidade.
+
+2. Causa mais provável: Escoamento de água pluvial pelo peitoril, possivelmente devido à ausência ou insuficiência de pingadeira (saliência com gota), permitindo que a água escorra pela face vertical da fachada e transporte partículas de sujeira.
+
+Outras causas possíveis, em ordem de probabilidade:
+
+- Acúmulo de água no peitoril, decorrente de caimento inadequado ou deficiência de drenagem, favorecendo o umedecimento recorrente da fachada.
+- Proliferação de microrganismos, como algas e fungos, favorecida pela umidade persistente e pela exposição ambiental.
+
+3. Grau de confiança no diagnóstico: Alto para a identificação da manifestação e da provável relação com o escoamento de água pluvial; médio para a determinação da causa construtiva específica, pois a fotografia não permite verificar o caimento, a impermeabilização ou a geometria da pingadeira."
+Ficha 054,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise baseada na fotografia fornecida:
+
+1. **Manifestação Patológica Observada**
+* Manchas de escorrimento vertical e sujidade escura na fachada, localizadas logo abaixo do peitoril/pingadeira da janela.
+
+
+
+
+2. **Causa Mais Provável e Outras Causas**
+* **Causa mais provável:** Ausência, insuficiência de projeção (sobressaliência) ou falta de um rasgo/goteira eficiente na parte inferior do peitoril, fazendo com que a água da chuva escoe rente à parede e arraste partículas de poeira e poluição acumuladas na superfície.
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. Proliferação de agentes biológicos (como fungos, bolor ou algas) favorecida pela umidade constante e retenção de água nessa região da fachada.
+
+
+2. Falhas de vedação (selante ou argamassa de assentamento) nas juntas laterais e de encontro entre a esquadria, o peitoril e a parede, provocando percolação e escoamento concentrado de água.
+
+
+
+
+
+
+3. **Grau de Confiança no Diagnóstico**
+* **Alto**, pois o padrão visual das marcas verticais de escorrimento sob o peitoril é uma manifestação patológica clássica e bem evidente de problemas de escoamento de águas pluviais em fachadas."
+Ficha 062,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"Analisei a imagem diretamente, sem buscas externas. Trata-se de uma fachada com revestimento cerâmico ou de pastilhas, de tom claro, com duas faixas horizontais de pastilhas azuis. Uma junta vertical corta a fachada de cima a baixo, passando pelas duas faixas.
+
+**1) Manifestação patológica observada**
+
+Há fissura/trinca vertical ao longo da junta, com sinais de desagregação localizada do revestimento. Nas duas faixas azuis, na altura da junta, as peças parecem ter perdido o alinhamento, com aspecto de lascamento, esborcinamento e deterioração das peças e do rejunte. Há manchamento escuro e esbranquiçado no local, compatível com infiltração de umidade e possível eflorescência. A patologia se concentra na região da junta e não se espalha de forma generalizada pelo paño.
+
+**2) Causa mais provável e causas alternativas**
+
+- **Causa mais provável: movimentação diferencial na junta, com falha de projeto ou execução da junta de movimentação/dessolidarização.** A junta provavelmente sofre dilatação e retração térmica, higroscópica ou estrutural. Se ela foi mal dimensionada, está sem selante flexível, está preenchida com material rígido ou não foi respeitada no revestimento, as tensões se concentram nas peças vizinhas. O resultado é o esmagamento ou lascamento das bordas, a fissuração e a perda de aderência.
+- **Segunda causa possível: infiltração de água pela junta com degradação do sistema de fixação.** A selagem deficiente ou envelhecida permite a entrada de água, que enfraquece a argamassa de fixação e provoca eflorescência, manchas e descolamento progressivo.
+- **Terceira causa possível: movimentação estrutural ou recalque diferencial entre os blocos separados pela junta.** Isso exigiria movimento relativo entre as partes da edificação, mas a imagem não traz evidência de que o dano se estenda além da região da junta.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** A manifestação e sua localização na junta são claras, mas a imagem não permite confirmar o mecanismo. Falta saber se existe selante na junta, se o descolamento é generalizado (teste de percussão), qual é a idade da edificação e se há movimentação estrutural. Uma inspeção in loco, com ensaio de percussão e verificação do tipo de junta, elevaria a confiança."
+Ficha 062,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Fissura vertical no revestimento cerâmico, com indícios de deterioração localizada do rejunte e possível trinca nas peças cerâmicas adjacentes.
+
+2. Causa mais provável: Movimentação diferencial do substrato ou da alvenaria, provocando concentração de tensões e fissuração ao longo da junta vertical.
+
+- Causa alternativa 1: Ausência ou inadequação de junta de movimentação no revestimento, restringindo as deformações naturais dos materiais.
+- Causa alternativa 2: Deficiência de execução, como assentamento inadequado das peças ou preenchimento insuficiente das juntas, favorecendo a fissuração localizada.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem permite identificar uma anomalia linear vertical, mas não possibilita determinar com segurança sua profundidade, extensão ou origem. Para confirmar a causa, seria necessário verificar se a fissura também ocorre no substrato e avaliar as condições de execução do revestimento.
+
+Posso também elaborar uma hipótese diagnóstica em formato de laudo técnico ou indicar inspeções para diferenciar as causas possíveis."
+Ficha 062,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual da fotografia fornecida, segue a avaliação técnica da patologia observada:
+
+1. **Manifestação patológica observada:**
+* **Fissuração e ruptura linear vertical** do revestimento cerâmico, concentrada ao longo de um eixo vertical bem definido (especialmente perceptível cortando a faixa de peças azuis).
+
+
+* **Eflorescência e deposição de sais / umidade** visíveis sob a forma de manchas esbranquiçadas e escurecimento do rejunte na linha da fissura.
+
+
+* Indícios de **descolamento localizado ou esmagamento** das bordas das placas cerâmicas adjacentes à linha de ruptura.
+
+
+
+
+2. **Causa mais provável e outras causas possíveis (em ordem de probabilidade):**
+* **Causa mais provável:** Falha, insuficiência ou ausência de tratamento adequado na **junta de movimentação (ou dilatação)** do substrato, o que impede a livre movimentação térmica dos materiais e gera concentração de tensões, resultando no esmagamento e ruptura linear da cerâmica.
+
+
+* **Segunda causa mais provável:** **Movimentação estrutural diferencial** (como deformações excessivas, flexão de vigas ou recalques) cujas tensões se refletem diretamente no revestimento rígido de fachada.
+
+
+* **Terceira causa mais provável:** **Degradação e perda de estanqueidade do selante elastomérico** da junta de movimentação, permitindo a infiltração de água da chuva que favorece a umidade interna, o surgimento de eflorescência e a perda de aderência do revestimento cerâmico.
+
+
+
+
+3. **Grau de confiança no diagnóstico:**
+* **Alto**, pois a morfologia e a localização da patologia (ruptura perfeitamente alinhada em linha vertical cruzando faixas de cores distintas) são características clássicas de problemas associados a juntas de movimentação ou tensões lineares em revestimentos cerâmicos de fachada."
+Ficha 068,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Nas duas imagens, as alvenarias de pedra (granito, aparentemente) apresentam **colonização biológica e manchamento superficial**: crostas e filmes escuros esverdeados/enegrecidos, compatíveis com algas, líquenes, musgos e fungos. Na Imagem 1, a concentração está na base do embasamento, junto ao piso, com aspecto de umidade persistente e sujidade, além de um possível desgaste superficial da pedra. Na Imagem 2, o escurecimento e o esverdeamento aparecem de forma desigual, em faixas verticais, com padrão de escorrimento, enquanto as arestas e os elementos de cantaria mais claros permanecem mais limpos.
+
+**2) Causa mais provável e causas alternativas**
+
+- **Causa mais provável: umidade excessiva e persistente na pedra, combinada com exposição ambiental favorável ao crescimento biológico.** Na base (Imagem 1), isso se explica por ascensão capilar e respingos de água do piso, com drenagem deficiente e pouca secagem. Nas faces verticais (Imagem 2), o escorrimento de águas pluviais, com ausência ou insuficiência de pingadeiras, rufos ou proteção de topo, mantém faixas úmidas onde os organismos se instalam. A porosidade da pedra, o sombreamento e o clima úmido favorecem o processo.
+- **Causa alternativa 1: deposição de poluentes e partículas atmosféricas.** Sujidade e crostas negras por poluição urbana, acumuladas preferencialmente nas zonas de escorrimento e retenção de água, podem ser confundidas com o biofilme ou agravá-lo.
+- **Causa alternativa 2: ausência de manutenção e limpeza, associada à degradação das juntas.** Juntas ou argamassas deterioradas aumentam a absorção de água e a retenção de umidade nas alvenarias, e a falta de limpeza periódica permite que a colonização avance.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** O padrão visual de biocolonização e manchamento por umidade é bastante característico, mas as imagens têm baixa resolução. Não é possível distinguir com segurança líquenes de algas ou de crostas de poluição, nem confirmar a ascensão capilar, a condição das juntas ou eventual perda de material da pedra. A confirmação exigiria inspeção local, medição de umidade e, se necessário, análise laboratorial."
+Ficha 068,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas escuras e esverdeadas na superfície da alvenaria ou do revestimento, com indícios de umidade e possível desenvolvimento de fungos, algas ou outros microrganismos.
+
+2. Causa mais provável: Infiltração de água e umidade persistente no elemento construtivo, possivelmente associadas à exposição à chuva e à deficiência de impermeabilização ou drenagem. Outras causas possíveis, em ordem de probabilidade:
+
+- Segunda: Umidade ascendente por capilaridade, proveniente do solo ou da base da construção.
+- Terceira: Acúmulo de umidade por falhas no escoamento da água pluvial ou por vazamentos nas proximidades.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem sugere um problema relacionado à umidade, mas sua baixa resolução e a ausência de detalhes sobre os materiais e as condições locais impedem confirmar a origem da água e distinguir com segurança a colonização biológica de outras formas de alteração superficial."
+Ficha 068,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual das fotografias anexadas, segue o laudo técnico simplificado:
+
+1. **Manifestação patológica observada:**
+* **Colonização biológica** (crescimento de micro-organismos como algas, musgos e líquens) associada a **manchas de umidade** e retenção de água nas superfícies das estruturas pétreas.
+
+
+
+
+2. **Causa mais provável:**
+* **Umidade excessiva e capilaridade (umidade ascensional):** A absorção de água do solo pelas paredes e a umidade ambiental retida na superfície criam o microambiente ideal para a proliferação de agentes biológicos.
+
+
+* *Outras causas possíveis (em ordem de probabilidade):*
+1. **Intemperismo e retenção de água pluvial:** Ação direta da chuva combinada com sombreamento prolongado e baixa ventilação, o que retarda a secagem da pedra.
+
+
+2. **Deficiências no sistema de drenagem local:** Falta de escoamento adequado de água ao redor da base da estrutura, agravando o acúmulo de umidade no rodapé e no pavimento adjacente.
+
+
+
+
+
+
+3. **Grau de confiança no diagnóstico:**
+* **Alto**, pois os padrões visuais de esverdeamento por colonização biológica e umidade em monumentos e estruturas de pedra expostas ao tempo são claros e característicos."
+Ficha 069,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**1) Manifestação patológica observada**
+
+Destacamento (desplacamento) de revestimento cerâmico em fachada. A imagem mostra um edifício alto com fachada em placas cerâmicas amarelas e, na ampliação, uma falha localizada onde as peças se soltaram e ficaram ausentes. Na área exposta aparece o substrato de argamassa (emboço), com coloração avermelhada/escurecida. Há também uma segunda falha menor, no alto da fachada, e manchas de umidade e sujidade na região inferior, com escurecimento e escorrimento. As peças vizinhas à falha parecem ter juntas aparentes e podem estar com trincas ou descolamento incipiente.
+
+**2) Causa mais provável**
+
+Perda de aderência do sistema de revestimento, provocada por tensões diferenciais (térmicas e higroscópicas) e infiltração de umidade. Em fachadas altas e expostas à insolação, a dilatação e a retração cíclicas geram tensões de cisalhamento na interface cerâmica-argamassa colante-emboço. Esse mecanismo é agravado quando faltam juntas de movimentação ou dessolidarização, ou quando elas estão ineficazes. A umidade que entra pelas juntas de rejunte ou por fissuras enfraquece a ligação e acelera o processo, o que é coerente com as manchas na parte inferior.
+
+Outras causas possíveis, em ordem de probabilidade:
+
+1. Falha de execução ou de materiais: argamassa colante inadequada, tempo em aberto excedido, assentamento com cobrimento incompleto no tardoz das peças (vazios), ou preparo deficiente do substrato.
+2. Movimentações estruturais ou da base (deformação lenta, retração do concreto e da alvenaria, ausência de reforço em cantos e encontros com a estrutura), que sobrecarregam o revestimento.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** A manifestação (destacamento de cerâmica) é inequívoca, mas a causa é inferida apenas da imagem. A confirmação exigiria ensaio de percussão (som cavo) em toda a fachada, ensaio de aderência por arrancamento, inspeção das juntas e da idade do revestimento, e análise do histórico de manutenção. A imagem não permite distinguir com segurança qual mecanismo predomina. A recomendação imediata é isolar a área sob a fachada e fazer inspeção por percussão, pois há risco de queda de peças sobre pessoas."
+Ficha 069,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Desplacamento localizado do revestimento de fachada, com exposição do substrato e possível deterioração superficial da camada de acabamento. Observam-se também manchas escurecidas na região exposta, compatíveis com sujidade ou alteração superficial do material.
+
+2. Causa mais provável: Perda de aderência entre as camadas do revestimento, possivelmente associada à deficiência de execução, como preparo inadequado do substrato ou aplicação incorreta da argamassa.
+
+Outras causas possíveis, em ordem de probabilidade:
+
+- 2ª: Infiltração de água, favorecendo a degradação do revestimento e a perda de aderência.
+- 3ª: Movimentações térmicas ou higroscópicas, gerando tensões e contribuindo para o descolamento do revestimento.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem permite identificar visualmente o desplacamento, mas não possibilita determinar com segurança sua causa específica. A confirmação exigiria inspeção local, avaliação da umidade e verificação da aderência das camadas do revestimento."
+Ficha 069,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual da fotografia fornecida, seguem os itens solicitados:
+
+1. **Manifestação Patológica Observada:**
+Descolamento (desplacamento) do revestimento cerâmico de fachada associado a processo de **corrosão de armadura**, caracterizado pela ruptura e expulsão do concreto de cobrimento e pela exposição de barras de aço oxidadas (conforme destacado no círculo vermelho).
+
+
+2. **Causa Mais Provável e Outras Causas Possíveis (em ordem de probabilidade):**
+* **Causa mais provável:** Infiltração de umidade e agentes agressivos (como dióxido de carbono ou cloretos) através de falhas, fissuras ou envelhecimento dos rejuntes e do próprio revestimento cerâmico, provocando a despassivação e corrosão do aço da armadura. O aumento de volume do produto de corrosão gera pressões internas elevadas (tensões de tração), resultando na expulsão do concreto de cobrimento e no consequente descolamento da cerâmica.
+
+
+* **Outra causa possível (1):** Deficiência na espessura ou na qualidade do concreto de cobrimento original (por exemplo, cobrimento insuficiente ou falhas de adensamento/bicheiras), o que acelera a carbonatação do concreto e a chegada de agentes agressivos até a armadura.
+
+
+* **Outra causa possível (2):** Movimentações térmicas diferenciais e ausência ou dimensionamento inadequado de juntas de dilatação, provocando tensões que causaram o desplacamento inicial do revestimento cerâmico, facilitando e acelerando a posterior entrada de água na estrutura.
+
+
+
+
+3. **Grau de Confiança no Diagnóstico:**
+**Alto**, pois a imagem exibe evidências visuais claras e diretas de armadura exposta com forte oxidação e a consequente perda de integridade do substrato de concreto e do revestimento cerâmico de acabamento."
+Ficha 071,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Análise visual da fotografia**
+
+**1) Manifestação patológica observada**
+
+Revestimento cerâmico de parede (azulejos claros, assentados com juntas alinhadas) com:
+- **Fissura/trinca vertical** que atravessa as placas e as juntas, localizada à direita da imagem;
+- **Deslocamento relativo** entre as placas dos dois lados da trinca, com leve desalinhamento das juntas horizontais, indicando movimentação diferencial;
+- **Ondulação e perda de planicidade** do plano cerâmico, com juntas horizontais que parecem arqueadas;
+- **Região de descolamento ou ausência de placas** à esquerda, com o substrato (emboço) exposto, indicando que já houve desplacamento.
+
+O conjunto caracteriza **falha de aderência com movimentação do sistema de revestimento**, e não apenas uma fissura superficial.
+
+**2) Causa mais provável e alternativas**
+
+- **Causa mais provável: movimentação diferencial da base (substrato/alvenaria), com ausência ou inadequação de juntas de movimentação no revestimento.** A trinca vertical que corta o revestimento e a ondulação do plano sugerem acúmulo de tensões de retração, de variação higrotérmica ou de acomodação da estrutura. Sem juntas de dessolidarização, essas tensões se aliviam por trincas e perda de aderência.
+- **Causa alternativa 1: falha de execução do assentamento**, como argamassa colante inadequada, cobrimento incompleto no tardoz das placas, tempo em aberto excedido ou emboço sem cura adequada. Isso explicaria o descolamento localizado e as placas que se movem independentemente.
+- **Causa alternativa 2: umidade ou infiltração na base** (por vazamento de tubulação ou falha de impermeabilização), com expansão por umidade e degradação da argamassa de assentamento. Não há evidência visual direta na imagem (manchas, eflorescência, mofo), por isso é a hipótese menos provável.
+
+**3) Grau de confiança no diagnóstico: médio**
+
+A manifestação em si (trinca com deslocamento e desplacamento) é bem identificável. A causa, porém, não pode ser definida só pela fotografia. Seriam necessários ensaio de percussão (som cavo), verificação de umidade na base, mapeamento de outras fissuras na estrutura e na alvenaria adjacente e conhecimento do histórico da obra para confirmar o diagnóstico."
+Ficha 071,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Desalinhamento e deformação do revestimento cerâmico, com irregularidades no plano das placas e abertura localizada de junta vertical, indicando perda de uniformidade e possível descolamento parcial do revestimento.
+
+2. Causa mais provável: Falha de execução do assentamento, possivelmente associada à aplicação inadequada da argamassa colante e à insuficiência de aderência entre as placas e o substrato. Outras causas possíveis, em ordem de probabilidade:
+
+- Movimentações diferenciais do substrato ou do revestimento, associadas à ausência ou inadequação de juntas de movimentação, gerando tensões e deslocamentos das placas.
+- Expansão por umidade das peças cerâmicas, que pode provocar compressão entre placas, abaulamento e perda de aderência.
+
+3. Grau de confiança no diagnóstico: Médio. A deformação e o desalinhamento são visualmente evidentes, mas a determinação da causa exige verificações complementares, como percussão das placas, avaliação da aderência, inspeção das juntas e análise das condições do substrato."
+Ficha 071,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise técnica da imagem fornecida:
+
+---
+
+### 1) Manifestação Patológica Observada
+
+Estufamento e descolamento generalizado do revestimento cerâmico de parede, caracterizado pela flambagem (deformação para fora do plano da parede) das placas e pela ruptura da argamassa colante, acompanhado pela perda pontual de algumas peças que já se desprenderam, expondo o substrato de base.
+
+### 2) Causa Mais Provável e Outras Causas Possíveis
+
+* **Causa mais provável:** Ausência, insuficiência ou preenchimento incorreto das juntas de movimentação, dessolidarização e dilatação, associada às tensões de compressão no plano do revestimento provocadas por variações térmicas ou umidade.
+
+
+* **Outra causa possível (1ª):** Falha de aderência da argamassa colante decorrente de técnicas inadequadas de execução (como ausência de dupla colagem em peças de maior formato, cobertura insuficiente de argamassa ou perda de aderência por tempo em aberto excedido).
+
+
+* **Outra causa possível (2ª):** Movimentações estruturais da base (como flechas excessivas em vigas/lajes ou movimentação de alvenarias) transmitidas de forma direta para o revestimento cerâmico rígido.
+
+
+
+### 3) Grau de Confiança no Diagnóstico
+
+**Alto**, visto que o padrão visual de abaulamento e destacamento em faixa das placas cerâmicas apresenta as características clássicas e inconfundíveis de falha por perda de aderência e compressão no revestimento."
+Ficha 077,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação preliminar:** a imagem mostra um piso de ladrilhos cerâmicos/cerâmica vermelha retangulares (tipo tijolinho ou ladrilho hidráulico/queimado), assentados em fiadas, aparentemente em área externa ou semiexterna, com juntas escuras e estreitas.
+
+## 1) Manifestação patológica observada
+
+**Desgaste e perda do esmalte/acabamento superficial, com manchamento e descoloração irregular das peças.** Há áreas com tom alaranjado (biscoito cerâmico ou camada inferior exposta), manchas esbranquiçadas (possível eflorescência ou resíduos de revestimento/cal) e manchas azuladas/esverdeadas pontuais (possível biodeterioração, como algas ou fungos, ou resíduos de tinta/selador). O padrão é irregular, concentrado em algumas peças e nas regiões de maior solicitação, o que caracteriza deterioração superficial progressiva. Não há evidência clara de trincas, destacamento de peças ou desagregação estrutural.
+
+## 2) Causa mais provável
+
+**Causa principal:** desgaste por intemperismo e abrasão (ação combinada de umidade, radiação solar, tráfego e lavagens/limpezas agressivas) sobre um acabamento superficial (verniz, resina, esmalte ou película protetora) que se degradou e se desprendeu de forma irregular, expondo o corpo cerâmico poroso.
+
+**Outras causas possíveis, em ordem de probabilidade:**
+1. **Umidade ascendente ou infiltração com migração de sais** (eflorescência), que provoca manchas esbranquiçadas e contribui para o descolamento de camadas superficiais, em especial se o piso estiver em contato com o solo ou sem impermeabilização adequada.
+2. **Falha de aplicação ou incompatibilidade de produtos de proteção/limpeza** (selador, cera, verniz ou ácidos), que gera manchas e remoção desigual da película.
+
+## 3) Grau de confiança no diagnóstico
+
+**Médio.** A manifestação (degradação superficial com manchamento) é bem visível, mas a análise por fotografia única, de baixa resolução e sem informações sobre localização, idade, tipo exato de material, exposição e histórico de manutenção, não permite distinguir com segurança entre desgaste, eflorescência e biodeterioração. Recomenda-se inspeção in loco, com teste de absorção/umidade e eventual análise dos sais, para confirmar a causa."
+Ficha 077,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Desgaste superficial do revestimento cerâmico, com manchas, descoloração e perda localizada da camada superficial, apresentando aspecto de descascamento e deterioração do acabamento das peças.
+
+2. Causa mais provável: Ação prolongada da umidade, possivelmente associada à exposição às intempéries, favorecendo a degradação superficial do material cerâmico. Outras causas possíveis, em ordem de probabilidade:
+
+- Segunda: Baixa resistência ou inadequação do revestimento cerâmico às condições de exposição e uso.
+- Terceira: Ataque químico por agentes presentes na água ou em produtos de limpeza, causando alteração e deterioração da superfície.
+
+3. Grau de confiança no diagnóstico: Médio. A deterioração superficial é visualmente evidente, mas a identificação da causa específica é limitada pela ausência de informações sobre o tipo de cerâmica, as condições de exposição, a idade do revestimento e a presença de umidade. A confirmação exigiria uma inspeção presencial e, se necessário, ensaios complementares."
+Ficha 077,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, analiso a fotografia apresentada e estruturo o diagnóstico nos três itens solicitados:
+
+---
+
+### 1) Manifestação Patológica Observada
+
+* **Eflorescência** associada ao **descascamento/descolamento de película protetora (verniz ou resina)** e manchas de umidade sobre o revestimento de peças cerâmicas (tipo plaquetas ou tijolos aparentes). Observam-se manchas esbranquiçadas/acinzentadas e áreas com destacamento da camada superficial do revestimento.
+
+
+
+---
+
+### 2) Causa Mais Provável e Outras Causas
+
+* **Causa mais provável:** Presença de umidade retida (proveniente de infiltração, umidade ascendente ou condensação) que migra pelo substrato e argamassa de assentamento, lixiviando sais minerais solúveis que cristalizam na superfície (eflorescência). A pressão hidrostática ou a umidade aprisionada também provoca a perda de aderência e o descascamento da resina/verniz de proteção aplicada sobre a cerâmica.
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. **Falha ou incompatibilidade na aplicação de produto impermeabilizante superficial:** Uso de resinas ou vernizes inadequados que bloqueiam a respiração natural do material, retendo umidade interna e causando o destacamento precoce da película.
+
+
+2. **Ação severa de intemperismo (ciclos de molhagem e secagem):** A exposição contínua a intempéries e raios UV degrada a camada de acabamento orgânica (verniz/resina), facilitando a penetração de água e a posterior eflorescência.
+
+
+
+
+
+---
+
+### 3) Grau de Confiança no Diagnóstico
+
+* **Médio**. Embora os padrões visuais sejam altamente indicativos de problemas relacionados à umidade, eflorescência e degradação de revestimento superficial, a análise estritamente fotográfica não permite realizar ensaios complementares (como medição de teor de umidade ou análise química dos sais), os quais seriam necessários para fechar o diagnóstico com grau alto de certeza."
+Ficha 078,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Análise visual da fotografia** (fachada de edifício residencial com revestimento cerâmico amarelo; detalhes ampliados à esquerda e à direita)
+
+**1) Manifestação patológica observada**
+
+Fissuras e trincas no revestimento cerâmico da fachada. No detalhe à esquerda, há uma fissura longa, de traçado inclinado e irregular, que atravessa as peças cerâmicas e as juntas, partindo da região da laje/marquise na base do painel e subindo pela parede. Na parte inferior, junto à laje de borda, o concreto aparente mostra descolamento, manchas escuras e indícios de degradação superficial. O detalhe à direita, que parece uma imagem de inspeção especial (como termografia, luz UV ou fluorescência), revela uma rede de microfissuras na faixa inferior, abaixo das cerâmicas. Isso indica que o dano na base é mais extenso do que o visível a olho nu.
+
+**2) Causa mais provável e alternativas**
+
+- **Causa mais provável:** movimentações diferenciais entre a estrutura de concreto (laje, marquise ou viga de borda) e a alvenaria de vedação, combinadas com variações térmicas e higroscópicas. O revestimento cerâmico não tem juntas de movimentação adequadas. Com a deformação da laje em balanço ou da marquise e a retração/dilatação diferencial, as tensões se concentram na região de transição de materiais e propagam a fissura pelo revestimento. A localização da fissura, partindo do encontro com a laje, sustenta essa hipótese.
+- **Alternativa 1:** deformação excessiva (flecha) ou recalque diferencial da estrutura, em particular da marquise ou da laje em balanço do pavimento térreo. Isso geraria a fissura inclinada, típica de esforços de cisalhamento e flexão transmitidos à alvenaria.
+- **Alternativa 2:** infiltração de umidade com corrosão das armaduras na laje de borda. A expansão dos produtos da corrosão fissura e destaca o concreto, e a degradação se transmite ao revestimento sobrejacente. As manchas e o desplacamento na base são compatíveis com essa hipótese, mas ela explica menos a fissura que sobe pela parede.
+
+**3) Grau de confiança no diagnóstico**
+
+**Médio.** A manifestação (fissuração do revestimento e degradação na base) é clara, mas a causa não pode ser fechada só pela imagem. Seria preciso conhecer o sistema estrutural, o histórico de movimentação (por exemplo, com fissurômetros), a existência de juntas, o estado das armaduras e o tipo de ensaio da imagem à direita. A resolução da foto e a ausência de escala também limitam a análise."
+Ficha 078,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Fissuração vertical e diagonal no revestimento externo da fachada, acompanhada de manchas e sinais de degradação superficial na região inferior. Observa-se uma fissura que se estende por várias fiadas do revestimento cerâmico ou modular.
+
+2. Causa mais provável: Movimentação diferencial da estrutura ou da alvenaria de vedação, gerando tensões no revestimento e provocando sua fissuração.
+
+- Causa alternativa 1: Ausência ou deficiência de juntas de movimentação e de dessolidarização do revestimento, favorecendo o acúmulo de tensões.
+- Causa alternativa 2: Variações térmicas e higroscópicas dos materiais, associadas à retração da argamassa de assentamento ou de revestimento.
+
+3. Grau de confiança no diagnóstico: Médio. A fissuração é visualmente identificável, mas a determinação de sua causa exige inspeção presencial, análise da distribuição das fissuras e verificação das condições de aderência e das juntas do revestimento. A imagem, isoladamente, não permite confirmar se a origem é estrutural ou restrita aos materiais de revestimento."
+Ficha 078,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise da imagem fornecida dividida nos três itens solicitados:
+
+### 1) Manifestação patológica observada
+
+* **Fissuração diagonal (em degrau):** Presença de uma trinca/fissura diagonal expressiva que se propaga pelo revestimento cerâmico da fachada, concentrando-se próxima à região de canto da edificação.
+
+
+* **Deterioração do concreto:** Na viga ou elemento estrutural de borda/base visível nos detalhes ampliado (painéis esquerdo e direito), observam-se sinais de degradação do concreto, perda de seção, e indícios de corrosão da armadura com eflorescência e descolamento do cobrimento.
+
+
+
+---
+
+### 2) Causa mais provável e outras causas possíveis
+
+* **Causa mais provável:**
+1. **Recalque diferencial da fundação:** Movimentações diferenciais no solo de apoio (frequentemente mais críticas nas regiões de canto ou extremidades da edificação) induzem tensões de cisalhamento e tração na estrutura e nos revestimentos, resultando no padrão típico de fissuração diagonal.
+
+
+
+
+* **Outras causas possíveis (em ordem de probabilidade):**
+2. **Movimentações térmicas diferenciais:** Dilatações e contrações térmicas cíclicas acentuadas na fachada e nos elementos de cobertura/lajes de topo, que geram tensões elevadas nos cantos onde há restrição à movimentação livre.
+3. **Deformações excessivas em elementos estruturais (flexão/cisalhamento):** Flechas excessivas ou redistribuição de esforços em vigas de borda ou balanços, causando sobrecarga e fissuração por cisalhamento na alvenaria ou revestimento adjacente.
+
+
+
+---
+
+### 3) Grau de confiança no diagnóstico
+
+* **Médio:** O padrão visual das fissuras diagonais em cantos de edifícios associado à degradação do concreto de borda é fortemente indicativo de movimentações estruturais ou diferenciais. Contudo, o grau é intermediário pois a análise baseia-se exclusivamente em fotografias externas, sendo necessários ensaios não destrutivos, monitoramento das fissuras e levantamento topográfico/estrutural para confirmar a origem precisa."
+Ficha 084,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"# Análise das fotografias
+
+As duas imagens mostram forros/tetos com revestimento destacado, expondo a base de **forro de estuque sobre estrutura de ripas de madeira** (estucado/""tabuado"" com ripas paralelas e massa de argamassa nos interstícios). Aparentam ser de edificação antiga, provavelmente de valor histórico.
+
+## 1) Manifestação patológica observada
+
+- **Desplacamento (destacamento) do revestimento de argamassa/reboco e da pintura**, com perda de material em placas de contorno irregular, deixando as ripas de madeira aparentes (Imagem 1 e Imagem 2, canto superior direito).
+- **Manchas de umidade** em tons amarelados/alaranjados e marrons, com auréolas de contorno irregular, indicando percolação de água e secagem repetida (Imagem 2, região central e esquerda).
+- **Fissuras** ao longo das juntas entre painéis e na ligação com a moldura/sanca (Imagem 2), além de uma fissura diagonal longa no forro da Imagem 1.
+- **Pontos escuros/oxidados** alinhados nas ripas (Imagem 1), compatíveis com corrosão de pregos ou fixações metálicas.
+- Possível **deterioração das ripas** (aspecto envelhecido, manchado), com risco de perda de aderência do estuque.
+
+## 2) Causa mais provável
+
+**Causa principal: infiltração de água de cobertura ou de ponto hidráulico no pavimento superior (telhado, calhas, rufos ou tubulações), com umedecimento crônico do forro.** A água satura o estuque e a madeira, causa perda de aderência da argamassa às ripas, corrói os pregos (expansão dos produtos de corrosão) e provoca o desplacamento. As manchas com auréolas concêntricas reforçam a hipótese de ciclos de molhagem e secagem.
+
+Outras causas possíveis, em ordem de probabilidade:
+
+1. **Degradação da madeira (ripas) por umidade, ataque biológico (fungos/xilófagos) e corrosão dos pregos de fixação**, reduzindo o ancoramento do estuque e levando à queda por peso próprio. Pode ser consequência da causa principal, mas também ocorrer por envelhecimento natural.
+2. **Movimentações da estrutura/vibrações e envelhecimento do material**, com fissuração nas juntas e perda gradual de aderência, favorecendo o destacamento mesmo sem infiltração ativa.
+
+## 3) Grau de confiança no diagnóstico
+
+**Médio.** A identificação do sistema construtivo (forro de estuque sobre ripas) e da manifestação (desplacamento associado a umidade) é bastante segura. Já a origem exata da água e o estado real das ripas e fixações não podem ser confirmados só pela imagem. Seria necessária inspeção in loco (verificação da cobertura, instalações hidráulicas, umidade da madeira e sondagem do forro), e convém restringir o uso do ambiente sob as áreas afetadas, pelo risco de queda de novas placas."
+Ficha 084,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Desplacamento e perda localizada do revestimento do teto, com exposição do substrato, manchas amarronzadas, escurecimento e sinais visuais de umidade.
+
+2. Causa mais provável: Infiltração de água, possivelmente proveniente de vazamento na instalação hidráulica ou de falha de impermeabilização na região superior, provocando a deterioração e o desprendimento do revestimento.
+
+- Causa alternativa 1: Infiltração de água de chuva por falhas na cobertura ou na impermeabilização da laje.
+- Causa alternativa 2: Umidade persistente por condensação, contribuindo para o aparecimento de manchas e para a degradação do acabamento.
+
+3. Grau de confiança no diagnóstico: Médio. A inspeção visual indica sinais compatíveis com umidade e deterioração do revestimento, mas não permite determinar com segurança a origem da água nem confirmar a existência de vazamento ativo."
+Ficha 084,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise técnica com base nas fotografias fornecidas:
+
+### 1. Manifestação Patológica Observada
+
+* **Descolamento e desplacamento do revestimento** (argamassa/gesso) do teto, com exposição do substrato de ripas de madeira (característico de sistemas de teto em estuque).
+
+
+* **Manchas de umidade, estufamento e eflorescência**, acompanhadas de destacamento de pintura e amolecimento da camada de revestimento na região adjacente.
+
+
+
+---
+
+### 2. Causa Mais Provável e Outras Causas
+
+1. **Causa mais provável:** Infiltração de água oriunda de vazamentos em tubulações hidráulicas superiores ou falhas na impermeabilização da cobertura/laje acima. A umidade contínua degrada a aderência do revestimento, provoca a corrosão dos elementos metálicos de fixação (pregos) e apodrece as ripas de madeira do estuque.
+
+
+2. **Segunda causa mais provável:** Condensação crônica de vapor d'água no ambiente (por exemplo, em áreas com alta umidade relativa sem ventilação adequada), que penetra no revestimento poroso e reduz sua resistência ao cisalhamento e aderência.
+3. **Terceira causa mais provável:** Movimentações diferenciais ou pequenas deformações/vibrações na estrutura superior, que induzem tensões mecânicas em um revestimento antigo e já fragilizado pela idade ou umidade residual.
+
+---
+
+### 3. Grau de Confiança no Diagnóstico
+
+* **Alto**, pois as características visuais — exposição típica de ripas de madeira de teto em estuque aliada a manchas de umidade e bolores/degradação da pintura — formam um quadro clássico e inconfundível de patologia inducida por umidade em sistemas construtivos tradicionais."
+Ficha 085,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"Analisei as duas imagens em conjunto: a Imagem 1 é um detalhe aproximado do piso, com a região de interesse circulada, e a Imagem 2 mostra o ambiente geral, uma cozinha industrial ou de refeitório com fogões a gás e revestimento cerâmico nas paredes. O piso parece ser um revestimento monolítico, do tipo cimentado, argamassa autonivelante ou similar, de cor cinza-esverdeada ou bege.
+
+## 1) Manifestação patológica observada
+
+**Fissuração e microfissuração do revestimento do piso**, com padrão **ramificado e irregular**, parecido com um mapa. Na região circulada há fissuras finas, interligadas, de abertura reduzida, que não formam direção preferencial única. Também há **manchas de coloração alaranjada ou ferruginosa** distribuídas pela superfície, algumas com halo irregular, que sugerem **oxidação ou contaminação por partículas metálicas** ou aparecimento de eflorescência com óxido.
+
+## 2) Causa mais provável e outras causas possíveis
+
+**Causa mais provável: retração hidráulica ou plástica do revestimento cimentício.** O padrão ramificado e superficial é típico de perda rápida de água na cura, por cura inadequada, espessura excessiva, traço rico em cimento ou relação água/cimento alta. As manchas alaranjadas seriam um problema associado, e não a origem da fissura.
+
+Outras causas possíveis, em ordem de probabilidade:
+1. **Movimentação térmica ou ciclos de umedecimento e secagem**, comuns em cozinhas com calor dos fogões e lavagens frequentes, combinados com ausência de juntas de dessolidarização ou de retração.
+2. **Deficiência de aderência ou movimentação do substrato**, como assentamento, falta de preparo da base ou som cavo, o que provocaria a fissuração do revestimento por acomodação.
+
+## 3) Grau de confiança
+
+**Médio.** O padrão de fissuras é característico de retração, mas a análise visual não permite confirmar espessura, traço, procedimento de cura, existência de som cavo, nem a origem das manchas. Para confirmar seria necessário ensaio de percussão, medição de espessura e umidade, e avaliação das juntas e do substrato."
+Ficha 085,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Fissuração do revestimento superficial do piso, associada a manchas amarronzadas e áreas de descoloração, possivelmente relacionadas à umidade e à deterioração do material.
+
+2. Causa mais provável: Retração do revestimento cimentício, decorrente da perda de água durante a secagem e/ou da cura inadequada, ocasionando fissuras superficiais. Outras causas possíveis, em ordem de probabilidade:
+
+- Movimentação da base ou do substrato, gerando tensões e fissuração no revestimento.
+- Umidade ascendente por capilaridade, possivelmente associada à ausência ou deficiência de impermeabilização, contribuindo para as manchas e a degradação superficial.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem permite identificar visualmente as fissuras e as manchas, mas não possibilita determinar com segurança a profundidade das fissuras, a composição do revestimento ou a origem da umidade. A confirmação da causa exigiria inspeção técnica no local."
+Ficha 085,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual das fotografias apresentadas, segue a avaliação técnica estruturada nos três itens solicitados:
+
+1. **Manifestação patológica observada:**
+Fissuração superficial (com padrão de mapeamento ou fissuras ramificadas) associada à presença expressiva de manchas de oxidação (ferrugem) difusas e pontuais na superfície.
+
+
+2. **Causa mais provável e outras causas (em ordem de probabilidade):**
+* **1ª (Principal):** **Corrosão de elementos metálicos embutidos** (como armaduras, telas de reforço, arames de amarração ou espaçadores) com cobrimento insuficiente. A expansão volumétrica dos produtos de corrosão gera tensões internas superiores à resistência à tração do material, resultando em fissuração e exsudação de ferrugem na superfície.
+
+
+* **2ª:** **Presença de contaminantes ferrosos nos agregados** (como minerais de ferro ou torrões de argila reativos) que sofreram expansão por hidratação e processo oxidativo localizado no interior da matriz.
+
+
+* **3ª:** **Retração precoce do material de revestimento/argamassa** combinada com a oxidação superficial decorrente de agentes externos agressivos no ambiente de serviço (como a área de cocção/cozinha visível na visão geral).
+
+
+
+
+3. **Grau de confiança no diagnóstico:**
+**Alto**, visto que a combinação visual de manchas circulares de ferrugem diretamente associadas ao traçado de fissuras é uma evidência clássica e inequívoca de processos expansivos decorrentes de oxidação de elementos metálicos subsuperficiais."
+Ficha 089,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação geral:** as duas fotos mostram a mesma fachada em reboco (argamassa) de cor cinza, com acabamento texturizado/chapiscado ou desempenado de forma irregular, janelas com peitoril e pingadeira, e vãos com blocos de vidro. A Imagem 1 é um detalhe aproximado da Imagem 2.
+
+---
+
+**1) Manifestação patológica observada**
+
+Irregularidades superficiais no revestimento argamassado, caracterizadas por:
+- ondulações e variações de planicidade do reboco, com ressaltos e ""marcas de desempenamento"" (linhas de sobreposição de camadas, rebarbas e emendas de acabamento), bem visíveis na região central da Imagem 1;
+- textura heterogênea, com áreas mais ásperas e outras mais alisadas, o que sugere reparos ou retoques localizados;
+- pequenos pontos escuros isolados (possíveis crateras, vazios ou sujidades pontuais).
+
+Não identifico, com nitidez, fissuras estruturais, destacamento (som cavo), eflorescência, manchas de umidade ou crescimento biológico significativo. Trata-se, portanto, de uma manifestação predominantemente **estética/de execução**, e não de um dano funcional evidente.
+
+---
+
+**2) Causa mais provável e outras possíveis (por ordem de probabilidade)**
+
+- **Causa mais provável: falha de execução do revestimento (mão de obra).** Aplicação em camadas e em momentos distintos, sarrafeamento e desempeno inadequados, e acabamento feito com diferentes ferramentas ou diferentes tempos de ""puxada"", gerando emendas visíveis e variação de textura. A luz rasante (sol lateral) acentua essas imperfeições.
+- **Outra causa possível 1: retoques ou reparos localizados posteriores**, com argamassa de traço ou textura diferente, que ficam marcados na superfície (remendos de aberturas, chumbamento de instalações etc.).
+- **Outra causa possível 2: variações de absorção do substrato e/ou de dosagem e cura da argamassa** (por exemplo, perda de água rápida por insolação ou vento durante a aplicação), que podem provocar pequenas retrações superficiais e diferenças de textura.
+
+---
+
+**3) Grau de confiança no diagnóstico: MÉDIO**
+
+A descrição das irregularidades superficiais é segura, pois estão claras nas imagens. A atribuição de causa, porém, é baseada apenas em análise visual, em foto com luz rasante e com cor uniforme (imagem aparentemente dessaturada), sem informações sobre idade da obra, histórico de reparos, presença de umidade ou ensaios (percussão, aderência, inspeção próxima). Recomenda-se uma vistoria in loco com ensaio de percussão para confirmar que não há áreas com descolamento oculto."
+Ficha 089,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Manchas e variações de tonalidade na superfície do revestimento argamassado da fachada, com aspecto de heterogeneidade superficial e possíveis áreas de descoloração.
+
+2. Causa mais provável: Heterogeneidade na execução ou no acabamento do revestimento, possivelmente decorrente de diferenças na aplicação, no sarrafeamento ou na desempenadeira da argamassa.
+
+- Causa alternativa 1: Absorção irregular de água pelo substrato, provocando diferenças de secagem e de tonalidade.
+- Causa alternativa 2: Ação das intempéries, especialmente da chuva, com lavagem superficial e deposição irregular de partículas.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem permite identificar a irregularidade visual do revestimento, mas não permite determinar com segurança sua origem. Não se observam, de forma inequívoca, fissuras, destacamentos ou sinais característicos de infiltração que confirmem outra patologia específica."
+Ficha 089,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Como engenheiro civil especialista em patologia das construções, apresento a análise visual da fotografia anexa:
+
+### 1. Manifestação Patológica Observada
+
+Ondulações acentuadas, falta de planeza (superfície irregular e com aspecto ""ondulado"") e desvios de geometria no revestimento de argamassa da fachada.
+
+### 2. Causa Mais Provável e Outras Causas
+
+* **Causa principal (mais provável):** Falha de execução no processo de revestimento de argamassa, decorrente da ausência ou deficiência na execução de mestras e taliscas, bem como falta de rigor técnico no sarrafeamento e desempenamento da parede.
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. Substrato de base (alvenaria ou estrutura de concreto) com irregularidades geométricas, prumos inadequados ou deformações, cujas feições foram acompanhadas pela camada de revestimento sem a devida correção de espessura.
+2. Tensões localizadas e assentamento da argamassa devido a espessuras excessivas e heterogêneas aplicadas de forma desuniforme.
+
+
+
+### 3. Grau de Confiança no Diagnóstico
+
+* **Alto**, visto que as deformações superficiais e ondulações visuais são características inequívocas de falhas de controle geométrico e execução do revestimento argamassado."
+Ficha 091,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"# Análise Patológica (com base exclusivamente nas imagens)
+
+## 1) Manifestação patológica observada
+
+**Imagem 1 (vista geral, edifício alto):** fissura horizontal, de traçado irregular e com pequenas ramificações, na parte lisa do revestimento argamassado, logo acima de uma platibanda/volume de transição revestido com placas cerâmicas ou pedra em frisos. A fissura está na região próxima ao canto da edificação, onde há mudança de material (revestimento argamassado × revestimento em placas) e mudança de plano (recuo/volume do pavimento inferior). Há também indícios de outras fissuras verticais finas na lateral esquerda.
+
+**Imagem 2 (detalhe aproximado, com andaime):** fissuras em padrão **mapeado/poligonal e diagonal** no revestimento texturizado (argamassa com acabamento rugoso/grafiato), na região de **quina/canto vivo** do elemento. Algumas fissuras apresentam abertura significativa e já foram **seladas com material escuro** (aparentemente mástique ou selante), indicando intervenção prévia. O padrão em ""placa"" sugere destacamento incipiente de porções do revestimento, e algumas fissuras acompanham a borda do canto em direção à aresta.
+
+## 2) Causa mais provável
+
+**Causa principal: movimentações higrotérmicas diferenciais e retração do revestimento de argamassa**, agravadas pela ausência ou insuficiência de juntas de dessolidarização/movimentação e de reforço (tela) nas regiões de concentração de tensões (cantos, mudanças de plano e de material).
+
+Justificativas: o padrão mapeado e as fissuras acompanhando a quina indicam tensões de retração e variação térmica concentradas no canto; a fissura horizontal da Imagem 1 coincide com a interface entre materiais de comportamento distinto (base/revestimento argamassado × revestimento em placas), típica de movimentação diferencial; e a recorrência das fissuras, mesmo após selagem, indica que o mecanismo causador permanece ativo.
+
+**Outras causas possíveis (em ordem de probabilidade):**
+
+1. **Deformações diferenciais da estrutura/vedação** (fluência e deformação do concreto, deformação de lajes e vigas, acomodação da alvenaria de vedação sob a estrutura), com falta de encunhamento adequado ou de juntas na interface alvenaria-estrutura, especialmente na fissura horizontal da Imagem 1.
+2. **Falhas de execução do revestimento**, como excesso de espessura em uma única camada, ausência de tela de reforço nos cantos, cura inadequada ou traço inadequado da argamassa (excesso de finos/cimento), que também contribuem para o padrão mapeado.
+
+## 3) Grau de confiança no diagnóstico
+
+**Médio.**
+
+O padrão de fissuração e sua localização permitem identificar com razoável segurança a natureza da manifestação (fissuras de revestimento por movimentação e retração). Contudo, a análise exclusivamente visual não permite confirmar se há comprometimento da base (alvenaria ou estrutura), se há destacamento por som cavo, qual é a idade das fissuras, nem se estão ativas. Isso exigiria inspeção in loco com ensaio de percussão, fissurômetros/testemunhos, verificação de espessuras e avaliação da estrutura e das juntas existentes."
+Ficha 091,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Fissuras e trincas no revestimento externo da fachada, com padrão predominantemente irregular, ramificado e parcialmente inclinado, além de abertura localizada e possível descolamento do revestimento.
+
+2. Causa mais provável: Movimentações diferenciais da estrutura ou da alvenaria, associadas a deformações e concentrações de tensões no elemento construtivo, provocando a fissuração do revestimento.
+
+- Causa alternativa 1: Retração do revestimento (argamassa ou camada de acabamento), decorrente da cura inadequada ou de variações de umidade.
+- Causa alternativa 2: Variações térmicas e higroscópicas, gerando movimentações diferenciais entre as camadas do sistema de fachada.
+
+3. Grau de confiança no diagnóstico: Médio. A presença de fissuras é visualmente evidente, mas a determinação de sua origem exige informações sobre o sistema construtivo, a evolução das aberturas e a possível existência de fissuras correspondentes na alvenaria ou na estrutura."
+Ficha 091,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"Com base na análise visual das fotografias apresentadas, segue o laudo técnico preliminar estruturado nos três itens solicitados:
+
+### 1. Manifestação Patológica Observada
+
+* **Desplacamento (descolamento) e fissuração acentuada** do revestimento de argamassa na fachada e em quinas de elementos estruturais, com presença visível de eflorescências (depósitos esbranquiçados) e trincas abertas (algumas preenchidas com selante ou impermeabilizante nas imagens).
+
+
+
+---
+
+### 2. Causa Mais Provável e Outras Possibilidades
+
+* **Causa mais provável:** **Infiltração de água da chuva associada a movimentações térmicas diferenciais** entre a base estrutural e o revestimento, gerando tensões cíclicas que provocam a perda de aderência e a abertura de fissuras.
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. **Falhas executivas no sistema de revestimento:** Deficiência ou ausência de chapisco, traço inadequado da argamassa, espessura excessiva sem tela de reforço ou ausência de juntas de dilatação/movimentação.
+2. **Deformações estruturais excessivas:** Flechas acentuadas em vigas ou lajes de borda, ou recalques diferenciais que sobrecarregam o revestimento rígido com esforços de cisalhamento.
+
+
+
+---
+
+### 3. Grau de Confiança no Diagnóstico
+
+* **Médio:** As fotografias permitem identificar claramente os sintomas avançados de degradação do revestimento (fissuras mapeadas, desplacamentos e umidade), mas a confirmação definitiva da causa raiz exige uma vistoria técnica presencial com ensaios não destrutivos (como o ensaio de percussão/som escoteiro) e análise de projetos."
+Ficha 103,G,Claude,Anthropic,"Claude Sonnet 5.5 (esforço médio, padrão do plano gratuito)",2026-10-23,conversa anônima (sem memória),"**Observação geral:** as imagens mostram uma superfície de acabamento texturizado/granulado (aspecto de revestimento argamassado projetado, tipo chapisco/""granito"" ou argamassa com agregado aparente), de cor clara, em que há agulhas ou pinos metálicos finos ao longo da superfície. Na imagem 1 (à esquerda) há um pino metálico quase deitado sobre o revestimento e uma pequena marca/furo; à direita, um furo maior, de bordas irregulares, com reparo em argamassa de tom cinza e uma tela ou malha metálica exposta no centro. Na imagem 2 aparecem vários elementos finos, rígidos, metálicos ou de aspecto de lâmina, projetando-se da superfície, além de uma pequena esfera junto a um deles.
+
+**1) Manifestação patológica observada**
+
+Desprendimento localizado do revestimento (descolamento com perda de material), com exposição de armadura/tela metálica interna, associado à presença de pinos e fragmentos metálicos que se projetam da superfície. Em termos práticos, trata-se de destacamento pontual do revestimento acompanhado de corrosão ou de elementos metálicos expostos, com tentativa de reparo localizado (a mancha cinza mais lisa em torno do furo é um remendo de argamassa).
+
+**2) Causa mais provável e alternativas**
+
+- **Causa mais provável:** impacto ou perfuração mecânica (ação externa, de natureza mecânica ou de uso), com consequente fragmentação do revestimento. Os pinos e hastes metálicas distribuídos pela superfície indicam elementos fixados ou cravados de forma inadequada, e a remoção ou o arrancamento deles teria levado o revestimento junto, deixando a cavidade irregular e expondo a tela.
+- **Alternativa 1:** falha de aderência do revestimento ao substrato (preparo deficiente da base, ausência de chapisco ou argamassa mal dosada), o que facilita o destacamento quando há esforço localizado.
+- **Alternativa 2:** corrosão dos elementos metálicos embutidos, cuja expansão volumétrica pelos produtos de oxidação fissura e desloca o revestimento ao redor. Pela imagem, não se observam manchas de ferrugem nem fissuras irradiando do furo, o que torna essa hipótese menos provável.
+
+**3) Grau de confiança no diagnóstico**
+
+**Baixo a médio.** A manifestação (destacamento localizado com exposição de tela metálica) é identificável com razoável segurança. Já a causa depende de informações que a imagem não fornece: tipo de substrato, finalidade dos pinos, idade da obra, histórico de umidade e profundidade da lesão. Para confirmar o diagnóstico seriam recomendáveis ensaio de percussão (som cavo), ensaio de arrancamento (aderência) e verificação da profundidade e do estado da tela e dos pinos."
+Ficha 103,H,ChatGPT,OpenAI,"GPT-6 Luna (plano gratuito, sem seletor de modelo)",2026-10-23,conversa anônima (sem memória),"1. Manifestação patológica observada: Presença de fissuras e perfurações localizadas na superfície do revestimento de piso ou contrapiso, com exposição de elementos metálicos e áreas de reparo pontual. Observa-se também a presença de diversos pinos ou hastes metálicas projetados da superfície.
+
+2. Causa mais provável: Danos decorrentes da execução ou remoção de elementos de fixação metálicos embutidos no revestimento, possivelmente associados à instalação de equipamentos ou estruturas provisórias. Outras causas possíveis, em ordem de probabilidade:
+
+- Segunda hipótese: Falhas de execução do revestimento, com cobrimento insuficiente dos elementos metálicos e acabamento superficial inadequado.
+- Terceira hipótese: Retração ou movimentação diferencial do revestimento, contribuindo para fissuração e destacamento localizado do material.
+
+3. Grau de confiança no diagnóstico: Médio. A imagem permite identificar danos localizados e elementos metálicos expostos, mas não possibilita determinar com segurança a origem dos elementos, a profundidade das perfurações ou a existência de comprometimento das camadas inferiores. A confirmação da causa exigiria inspeção presencial e avaliação das condições construtivas."
+Ficha 103,I,Gemini,Google,"Modo Auto, linha Flash-Lite (plano gratuito)",2026-10-23,conversa anônima (sem memória),"### Análise Patológica do Revestimento
+
+1. **Manifestação Patológica Observada**
+* Desagregação generalizada e severa perda de resistência mecânica do revestimento de argamassa (popularmente caracterizada como ""argamassa podre""). A patologia fica evidente pela facilidade incomum com que diversos talheres (garfos, facas e colheres) penetram e se mantêm cravados verticalmente na camada de revestimento, bem como pelo aspecto friável e disgregável do material observado na inspeção localizada.
+
+
+
+
+2. **Causa Mais Provável e Outras Causas Possíveis**
+* **Causa mais provável:** Erro de dosagem no traço da argamassa, marcado por uma deficiência acentuada de aglomerante (cimento) e excesso de agregado miúdo (areia), o que impede a formação de uma matriz cimentícia resistente e coesa.
+* **Outras causas possíveis (em ordem de probabilidade):**
+1. Mistura deficiente ou deshomogeneização dos componentes da argamassa durante o preparo em canteiro de obras.
+2. Falta ou insuficiência de cura úmida nas primeiras idades, provocando a perda prematura de água e prejudicando o processo de hidratação do cimento.
+
+
+
+
+3. **Grau de Confiança no Diagnóstico**
+* **Alto.** As evidências visuais são contundentes e inequívocas: a inserção mecânica de utensílios de cozinha no corpo do piso aliada à fragilidade estrutural da camada exposta na sondagem comprovam diretamente a falta de consolidação e resistência da argamassa."

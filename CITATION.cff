@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Se usar estes dados ou o protocolo, cite o artigo e este repositório."
+title: "Inteligência artificial ao alcance de todos: dados e protocolo de avaliação de ferramentas gratuitas no diagnóstico de manifestações patológicas por fotografia"
+version: "1.0"
+date-released: "2026-11-08"
+license: CC-BY-4.0
+authors:
+  - family-names: Santos
+    given-names: Leonardo Costa dos
+  - family-names: Azevedo
+    given-names: Vanessa da Silva de
+  - family-names: Teixeira
+    given-names: Otávio Noura
+repository-code: "https://github.com/eng-leonardocosta/ia-diagnostico-manifestacoes-patologicas"
+preferred-citation:
+  type: conference-paper
+  title: "Inteligência artificial ao alcance de todos: o que ferramentas gratuitas acertam no diagnóstico de manifestações patológicas por fotografia"
+  authors:
+    - family-names: Santos
+      given-names: Leonardo Costa dos
+    - family-names: Azevedo
+      given-names: Vanessa da Silva de
+    - family-names: Teixeira
+      given-names: Otávio Noura
+  conference:
+    name: "V Simpósio Internacional do NDAE: Inovação, Sustentabilidade e Desenvolvimento Tecnológico"
+    city: Tucuruí
+    region: PA
+    country: BR
+  year: 2026

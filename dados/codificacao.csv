@@ -1,0 +1,61 @@
+ficha,codigo,ferramenta,grupo_ref,mpos,cpos,grupo_ia,confianca,nota
+Ficha 011,G,Claude,Umidade – condensação,1,1,Umidade – condensação,M,
+Ficha 011,H,ChatGPT,Umidade – condensação,1,2,Umidade – infiltração / água,M,infiltração 1ª; condensação alternativa 1
+Ficha 011,I,Gemini,Umidade – condensação,1,2,Umidade – infiltração / água,A,infiltração 1ª; condensação alternativa 1
+Ficha 014,G,Claude,Umidade – condensação,1,1,Umidade – condensação,M,
+Ficha 014,H,ChatGPT,Umidade – condensação,1,1,Umidade – condensação,M,
+Ficha 014,I,Gemini,Umidade – condensação,1,1,Umidade – condensação,A,
+Ficha 016,G,Claude,Umidade – ascensional,1,1,Umidade – ascensional,M,
+Ficha 016,H,ChatGPT,Umidade – ascensional,1,1,Umidade – ascensional,M,
+Ficha 016,I,Gemini,Umidade – ascensional,1,1,Umidade – ascensional,A,
+Ficha 020,G,Claude,Umidade – infiltração / água,2,1,Umidade – infiltração / água,M,manchas/mofo 1ª; madeira secundária
+Ficha 020,H,ChatGPT,Umidade – infiltração / água,2,1,Umidade – infiltração / água,M,manchas 1ª; deterioração genérica do revestimento
+Ficha 020,I,Gemini,Umidade – infiltração / água,2,1,Umidade – infiltração / água,A,infiltração/manchas 1ª; deterioração do material secundária
+Ficha 024,G,Claude,Umidade – infiltração / água,1,1,Umidade – infiltração / água,M,falha de impermeabilização da cobertura
+Ficha 024,H,ChatGPT,Umidade – infiltração / água,1,1,Umidade – infiltração / água,M,falha de impermeabilização da cobertura
+Ficha 024,I,Gemini,Umidade – infiltração / água,1,1,Umidade – infiltração / água,A,falha de impermeabilização da cobertura
+Ficha 036,G,Claude,Movimentação térmica / higrotérmica,1,1,Movimentação térmica / higrotérmica,M,movimentação 'principalmente por variação higrotérmica' sem juntas
+Ficha 036,H,ChatGPT,Movimentação térmica / higrotérmica,1,2,Falha de projeto ou execução,M,falha de aderência na execução 1ª; movimentações térmicas e de umidade na alternativa 1
+Ficha 036,I,Gemini,Movimentação térmica / higrotérmica,1,2,Falha de projeto ou execução,A,falha de aderência + ausência de juntas de dilatação (ação térmica implícita) – caso de fronteira
+Ficha 043,G,Claude,Eflorescência / sais solúveis,1,1,Eflorescência / sais solúveis,M,
+Ficha 043,H,ChatGPT,Eflorescência / sais solúveis,1,1,Eflorescência / sais solúveis,M,
+Ficha 043,I,Gemini,Eflorescência / sais solúveis,1,1,Eflorescência / sais solúveis,A,
+Ficha 052,G,Claude,Falha de projeto ou execução,1,1,Falha de projeto ou execução,M,infiltração atribuída a falha do capeamento/coroamento
+Ficha 052,H,ChatGPT,Falha de projeto ou execução,1,1,Falha de projeto ou execução,M,infiltração atribuída a falha do capeamento/coroamento
+Ficha 052,I,Gemini,Falha de projeto ou execução,1,1,Falha de projeto ou execução,A,infiltração atribuída a falha do capeamento/coroamento
+Ficha 054,G,Claude,Falha de projeto ou execução,1,1,Falha de projeto ou execução,A,ausência/ineficiência de pingadeira do peitoril
+Ficha 054,H,ChatGPT,Falha de projeto ou execução,1,1,Falha de projeto ou execução,M,ausência/ineficiência de pingadeira do peitoril
+Ficha 054,I,Gemini,Falha de projeto ou execução,1,1,Falha de projeto ou execução,A,ausência/ineficiência de pingadeira do peitoril
+Ficha 062,G,Claude,Envelhecimento / ação ambiental,2,2,Deformação / instabilidade do suporte,M,fissura ao longo da junta; movimentação diferencial 1ª; selagem envelhecida na alternativa 1
+Ficha 062,H,ChatGPT,Envelhecimento / ação ambiental,2,0,Deformação / instabilidade do suporte,M,fissura vertical; movimentação diferencial; sem envelhecimento
+Ficha 062,I,Gemini,Envelhecimento / ação ambiental,2,2,Falha de projeto ou execução,A,fissuração 1ª; falha da junta de movimentação; degradação do selante na alternativa 3
+Ficha 068,G,Claude,Envelhecimento / ação ambiental,1,1,Envelhecimento / ação ambiental,M,umidade persistente + exposição ambiental favorável (como B)
+Ficha 068,H,ChatGPT,Envelhecimento / ação ambiental,1,0,Umidade – infiltração / água,M,"infiltração/exposição à chuva; sem fator ambiental (sombreamento, poluição, manutenção) – caso de fronteira"
+Ficha 068,I,Gemini,Envelhecimento / ação ambiental,1,2,Umidade – ascensional,A,capilaridade 1ª; intemperismo + sombreamento na alternativa 1
+Ficha 069,G,Claude,Corrosão (armaduras / metais),1,0,Movimentação térmica / higrotérmica,M,perda de aderência termo-higroscópica; sem corrosão
+Ficha 069,H,ChatGPT,Corrosão (armaduras / metais),1,0,Falha de projeto ou execução,M,perda de aderência por execução; sem corrosão
+Ficha 069,I,Gemini,Corrosão (armaduras / metais),1,1,Corrosão (armaduras / metais),A,corrosão de armadura por infiltração de agentes agressivos
+Ficha 071,G,Claude,Retração (argamassa / suporte),2,2,Deformação / instabilidade do suporte,M,"fissura 1ª, descolamento depois; movimentação da base com tensões de retração citadas na causa principal"
+Ficha 071,H,ChatGPT,Retração (argamassa / suporte),1,0,Falha de projeto ou execução,M,deformação do plano + descolamento; falha de assentamento; sem retração do suporte
+Ficha 071,I,Gemini,Retração (argamassa / suporte),1,0,Falha de projeto ou execução,A,estufamento e descolamento; ausência de juntas; sem retração do suporte
+Ficha 077,G,Claude,Umidade – infiltração / água,1,2,Envelhecimento / ação ambiental,M,intemperismo/abrasão 1ª; umidade/sais na alternativa 1; identificou como piso
+Ficha 077,H,ChatGPT,Umidade – infiltração / água,1,1,Umidade – infiltração / água,M,ação prolongada da umidade
+Ficha 077,I,Gemini,Umidade – infiltração / água,2,1,Umidade – infiltração / água,M,eflorescência citada antes do descascamento da película; umidade retida
+Ficha 078,G,Claude,Deformação / instabilidade do suporte,1,2,Deformação / instabilidade do suporte,M,movimentação diferencial genérica (mesmo grupo); flecha na alternativa 1
+Ficha 078,H,ChatGPT,Deformação / instabilidade do suporte,1,2,Deformação / instabilidade do suporte,M,movimentação diferencial genérica (mesmo grupo)
+Ficha 078,I,Gemini,Deformação / instabilidade do suporte,1,2,Deformação / instabilidade do suporte,M,recalque diferencial 1ª; flechas excessivas na alternativa 2
+Ficha 084,G,Claude,Vazamento de instalações,1,2,Umidade – infiltração / água,M,cobertura citada antes de ponto hidráulico
+Ficha 084,H,ChatGPT,Vazamento de instalações,1,1,Vazamento de instalações,M,vazamento em instalação hidráulica citado primeiro
+Ficha 084,I,Gemini,Vazamento de instalações,1,1,Vazamento de instalações,A,vazamento em tubulações superiores citado primeiro
+Ficha 085,G,Claude,Movimentação térmica / higrotérmica,0,2,Retração (argamassa / suporte),M,viu fissuração; retração 1ª; movimentação térmica (fogões) na alternativa 1
+Ficha 085,H,ChatGPT,Movimentação térmica / higrotérmica,0,0,Retração (argamassa / suporte),M,viu fissuração; retração; sem ação térmica
+Ficha 085,I,Gemini,Movimentação térmica / higrotérmica,0,0,Corrosão (armaduras / metais),A,viu fissuração com ferrugem; corrosão de metálicos; sem ação térmica
+Ficha 089,G,Claude,Falha de projeto ou execução,1,1,Falha de projeto ou execução,M,
+Ficha 089,H,ChatGPT,Falha de projeto ou execução,0,1,Falha de projeto ou execução,M,manchas/tonalidade; não identifica desvio de planeza
+Ficha 089,I,Gemini,Falha de projeto ou execução,1,1,Falha de projeto ou execução,A,
+Ficha 091,G,Claude,Movimentação térmica / higrotérmica,2,1,Movimentação térmica / higrotérmica,M,"fissuração mapeada 1ª, destacamento incipiente; movimentações higrotérmicas"
+Ficha 091,H,ChatGPT,Movimentação térmica / higrotérmica,2,2,Deformação / instabilidade do suporte,M,"fissuras 1ª, possível descolamento; movimentação diferencial genérica; térmica na alternativa 2"
+Ficha 091,I,Gemini,Movimentação térmica / higrotérmica,1,2,Umidade – infiltração / água,M,desplacamento citado primeiro; infiltração 1ª associada a movimentação térmica
+Ficha 103,G,Claude,Ação mecânica (choque / desgaste),2,1,Ação mecânica (choque / desgaste),B,destacamento localizado com tela exposta; impacto/perfuração mecânica
+Ficha 103,H,ChatGPT,Ação mecânica (choque / desgaste),2,0,Falha de projeto ou execução,M,fissuras e perfurações; remoção de fixações na execução; identificou como piso
+Ficha 103,I,Gemini,Ação mecânica (choque / desgaste),0,0,Falha de projeto ou execução,A,interpretou como argamassa friável por erro de dosagem; identificou como piso

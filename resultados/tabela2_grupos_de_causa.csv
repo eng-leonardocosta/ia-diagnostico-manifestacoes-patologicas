@@ -1,0 +1,13 @@
+grupo_ref,casos,causa_exata,causa_entre_hipoteses
+Eflorescência / sais solúveis,1,1.0,1.0
+Falha de projeto ou execução,3,1.0,1.0
+Umidade – ascensional,1,1.0,1.0
+Umidade – infiltração / água,3,0.8888888888888888,1.0
+Vazamento de instalações,1,0.6666666666666666,1.0
+Umidade – condensação,2,0.6666666666666666,1.0
+Ação mecânica (choque / desgaste),1,0.3333333333333333,0.3333333333333333
+Corrosão (armaduras / metais),1,0.3333333333333333,0.3333333333333333
+Movimentação térmica / higrotérmica,3,0.2222222222222222,0.7777777777777778
+Envelhecimento / ação ambiental,2,0.16666666666666666,0.6666666666666666
+Deformação / instabilidade do suporte,1,0.0,1.0
+Retração (argamassa / suporte),1,0.0,0.3333333333333333

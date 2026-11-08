@@ -1,0 +1,135 @@
+{
+  "tabela1": [
+    {
+      "ferramenta": "Claude",
+      "codigo": "G",
+      "n": 20,
+      "manif_exata": 0.7,
+      "causa_exata": 0.65,
+      "causa_entre_hipoteses": 0.95,
+      "po_grupo": 0.7,
+      "pe_acaso": 0.10500000000000001,
+      "kappa": 0.6648044692737429,
+      "kappa_ic95": [
+        0.42524595051177577,
+        0.878058047297798
+      ],
+      "faixa": "Substancial",
+      "pi_scott": 0.6633941093969143,
+      "alfa_krippendorff": 0.6718092566619915,
+      "ac1_gwet": 0.6735501422035365
+    },
+    {
+      "ferramenta": "ChatGPT",
+      "codigo": "H",
+      "n": 20,
+      "manif_exata": 0.7,
+      "causa_exata": 0.5,
+      "causa_entre_hipoteses": 0.7,
+      "po_grupo": 0.55,
+      "pe_acaso": 0.11250000000000002,
+      "kappa": 0.49295774647887325,
+      "kappa_ic95": [
+        0.26345609065155806,
+        0.7041420118343196
+      ],
+      "faixa": "Moderada",
+      "pi_scott": 0.4782608695652174,
+      "alfa_krippendorff": 0.4913043478260869,
+      "ac1_gwet": 0.5117139334155364
+    },
+    {
+      "ferramenta": "Gemini",
+      "codigo": "I",
+      "n": 20,
+      "manif_exata": 0.75,
+      "causa_exata": 0.55,
+      "causa_entre_hipoteses": 0.85,
+      "po_grupo": 0.6,
+      "pe_acaso": 0.11250000000000002,
+      "kappa": 0.5492957746478873,
+      "kappa_ic95": [
+        0.3167569145830016,
+        0.7612117981520966
+      ],
+      "faixa": "Moderada",
+      "pi_scott": 0.536903039073806,
+      "alfa_krippendorff": 0.5484804630969609,
+      "ac1_gwet": 0.5659144160808978
+    },
+    {
+      "ferramenta": "Conjunto",
+      "codigo": "Conjunto",
+      "n": 60,
+      "manif_exata": 0.7166666666666667,
+      "causa_exata": 0.5666666666666667,
+      "causa_entre_hipoteses": 0.8333333333333334,
+      "po_grupo": 0.6166666666666667,
+      "pe_acaso": 0.10999999999999999,
+      "kappa": 0.5692883895131087,
+      "kappa_ic95": [
+        0.38199348609735023,
+        0.7305295029363462
+      ],
+      "faixa": "Moderada",
+      "pi_scott": 0.5638432364096081,
+      "alfa_krippendorff": 0.5674778761061947,
+      "ac1_gwet": 0.5833790756394774
+    }
+  ],
+  "mcnemar_manif_x_causa": {
+    "tabela": {
+      "ambas": 27,
+      "so_manifestacao": 16,
+      "so_causa": 7,
+      "nenhuma": 10
+    },
+    "p_exato": 0.0931396484375
+  },
+  "cochran_q_causa_exata": {
+    "Q": 1.75,
+    "gl": 2,
+    "p": 0.41686201967850856
+  },
+  "umidade": {
+    "umidade_causa_exata": 0.8095238095238095,
+    "demais_causa_exata": 0.4358974358974359,
+    "n_umidade": 21,
+    "n_demais": 39
+  },
+  "confianca": {
+    "ChatGPT": {
+      "A": 0,
+      "B": 0,
+      "M": 20
+    },
+    "Claude": {
+      "A": 1,
+      "B": 1,
+      "M": 18
+    },
+    "Gemini": {
+      "A": 17,
+      "B": 0,
+      "M": 3
+    }
+  },
+  "ferramenta_I_alta": {
+    "n": 17,
+    "causa_exata": 10
+  },
+  "confianca_alta_sem_causa": [
+    [
+      "Ficha 071",
+      "Gemini"
+    ],
+    [
+      "Ficha 085",
+      "Gemini"
+    ],
+    [
+      "Ficha 103",
+      "Gemini"
+    ]
+  ]
+}
